@@ -102,9 +102,9 @@ header a {
 
 
 main {
-	margin: 0 auto;
-	max-width: 90%;
-  padding: 50px 30px;
+	margin: 0px;
+	max-width: 100%;
+  padding: 0px;
 }
 :root {
   --primary: #8c54ff;
