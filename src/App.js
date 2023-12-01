@@ -2,24 +2,27 @@ import "./index.css";
 import React, { useState } from "react";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
+import Home from "./components/Home";
 import About from "./components/About";
-import Stars from "./components/Stars";
-import Earthlike from "./components/Earthlike";
-import Aliens from "./components/Aliens";
+import Services from "./components/Services";
+import Portfolio from "./components/Portfolio";
+import Contact from "./components/Contact";
 
 function App() {
-	const [currentTab, setCurrentTab] = useState("about");
+	const [currentTab, setCurrentTab] = useState("home");
 
 	const renderTab = () => {
 		switch (currentTab) {
+			case "home":
+				return <Home />;
 			case "about":
 				return <About />;
-			case "stars":
-				return <Stars />;
-			case "earthlike":
-				return <Earthlike />;
-			case "aliens":
-				return <Aliens />;
+			case "services":
+				return <Services />;
+			case "portfolio":
+				return <Portfolio />;
+			case "contact":
+				return <Contact />;
 			default:
 				return null;
 		}
