@@ -5,10 +5,10 @@ import starfield from "../../assets/images/starfield.jpg";
 function About(props) {
   return (
     <section>
-      <h1 className="mx-2" id="about">About Exo Solaria Union</h1>
+      <h1 className="mx-2" id="about">About Nova Ash Artistry</h1>
 
       <p>
-        The Exo Solaria Union is dedicated to providing a list of exo planets and star systems, and encouraging the exploration and colonization of space.
+        Nova Ash Artistry provides high quality hair styling by Summer Done.
         </p>
       
       <div className="my-2 mx-2">
