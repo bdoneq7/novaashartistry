@@ -1,4 +1,5 @@
 :root {
+  --black-color: #000000;
   --white-color: #ffffff;
   --yellow-color: #fce138;
   --blue-color: #024e76;
@@ -130,7 +131,7 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: .1em;
-  background: var(--purple-color);
+  background: var(--white-color);
   color: var(--white-color);
   font-family: 'Poiret One', cursive;             
   font-family: Helvetica, Arial, sans-serif;

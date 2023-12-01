@@ -15,6 +15,21 @@ function Header(props) {
 					currentTab={currentTab}
 					setCurrentTab={setCurrentTab}
 				></Nav>
+
+<div>
+				<a
+					href="https://www.linkedin.com/in/brian-done-9080b026/"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
+					<img
+						src={require("../../assets/images/linkedin-logo.png")}
+						alt="LinkedIn"
+						className="logo"
+					></img>
+				</a>
+			</div>
+
 			</div>
 		</header>
 	);
