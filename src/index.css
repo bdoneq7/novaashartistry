@@ -98,6 +98,8 @@ header a {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-evenly;
+  background-color: var(--darkestpurple-color);
+  height: 100px;
 }
 
 

@@ -7,15 +7,16 @@ function Home(props) {
     <section>
 
       <div className="leftsection">
-      <h1 className="mx-2" id="about">Nova Ash Artistry Home</h1>
-        <p>
+      <h1 className="mx-2" id="about">Nova Ash Artistry</h1>
+      
+          <br/>
           Nova Ash Artistry provides high quality hair styling by Summer Done.
-        </p>
+        
       </div>
       
       
       <div className="rightsection">
-      <img src={hair} className="my-2" style={{ width: "50%", height: "50%" }} alt="" title="" />
+      <img src={hair} className="my-2" style={{ width: "100%", height: "100%" }} alt="" title="" />
         
       </div>
 
