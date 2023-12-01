@@ -70,7 +70,7 @@ header a {
 .leftsection {
   float: left;
   width: 50%;
-  height: 600px;
+  height: 615px;
   background-color: var(--purple-color);
   color: #ffffff;
   padding: 10px;
@@ -81,7 +81,7 @@ header a {
 .rightsection {
   float: left;
   width: 50%;
-  height: 600px;
+  height: 615px;
   background-color: var(--lightestpurple-color);
   color: #000000;
   padding: 10px;
@@ -99,7 +99,8 @@ header a {
 	flex-wrap: wrap;
 	justify-content: space-evenly;
   background-color: var(--darkestpurple-color);
-  height: 100px;
+  height: 200px;
+  float: left;
 }
 
 
