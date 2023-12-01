@@ -95,9 +95,7 @@ header a {
 
 
 .footer {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-evenly;
+  color: var(--white-color);
   background-color: var(--darkestpurple-color);
   height: 200px;
   width: 100%;
@@ -399,7 +397,7 @@ a {
 }
 
 .navActive {
-  color: var(--yellow-color);
+  color: var(--lightpurple-color);
 }
 
 .project-title {

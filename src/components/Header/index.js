@@ -17,14 +17,14 @@ function Header(props) {
 
 					
 				>
-
-				</Nav>
-
-				<img
+					<img
 						src={require("../../assets/images/linkedin-logo.png")}
 						alt="LinkedIn"
 						className="logo"
 					></img>
+				</Nav>
+
+				
 
 			</div>
 		</header>
