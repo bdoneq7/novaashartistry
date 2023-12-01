@@ -1,6 +1,6 @@
 import React from "react";
 import Nav from "../Nav";
-import logo from "../../assets/images/logocardsmall.png";
+import logo from "../../assets/images/logocardsmall.jpg";
 
 function Header(props) {
 	const { currentTab, setCurrentTab } = props;
