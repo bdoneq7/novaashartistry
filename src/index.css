@@ -74,6 +74,7 @@ header a {
   background-color: var(--purple-color);
   color: #ffffff;
   padding: 10px;
+  margin: 0px;
 
 }
 
@@ -84,6 +85,7 @@ header a {
   background-color: var(--lightestpurple-color);
   color: #000000;
   padding: 10px;
+  margin: 0px;
 }
 
 
