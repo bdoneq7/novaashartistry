@@ -1,5 +1,5 @@
 import React from 'react';
-import starfield from "../../assets/images/starfield.jpg";
+import hair from "../../assets/images/hair.jpg";
 
 
 function About(props) {
@@ -12,7 +12,7 @@ function About(props) {
         </p>
       
       <div className="my-2 mx-2">
-      <img src={starfield} className="my-2" style={{ width: "50%", height: "50%" }} alt="" title="" />
+      <img src={hair} className="my-2" style={{ width: "50%", height: "50%" }} alt="" title="" />
         
       </div>
     </section>
