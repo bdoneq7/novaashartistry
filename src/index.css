@@ -2,6 +2,7 @@
   --white-color: #ffffff;
   --yellow-color: #fce138;
   --blue-color: #024e76;
+  --lightestpurple-color: #EBC2FB;
   --lightpurple-color: #7c4f91;
   --purple-color: #572175;
   --darkestpurple-color: #350a5b;
@@ -63,6 +64,22 @@ header a {
   width: 59%;
   align-items: middle;
   line-height: 90px;
+}
+
+.leftsection {
+  float: left;
+  width: 50%;
+  height: 500px;
+  background-color: var(--purple-color);
+  color: #000000;
+}
+
+.rightsection {
+  float: left;
+  width: 50%;
+  height: 500px;
+  background-color: var(--lightestpurple-color);
+  color: #000000;
 }
 
 
