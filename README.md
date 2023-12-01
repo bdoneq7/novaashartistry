@@ -1,7 +1,7 @@
-# Brian Portfolio
+# Nova Ash Artistry
 
 ## Purpose 
-To build a portfolio that potential employers can use to review my work samples and download my resume.
+Hair Stylist Business website for Summer Done
 
 ## Built With
 * JavaScript
@@ -16,7 +16,7 @@ To build a portfolio that potential employers can use to review my work samples 
 * [Questions](#questions)
 
 ## Screenshot
-![Alt Brian Done React Portfolio Screenshot](https://github.com/bdoneq7/brian-react-portfolio/blob/main/assets/images/screenshot.PNG?raw=true "Brian Done React Portfolio Screenshot")
+![Alt Brian Done React Portfolio Screenshot](https://github.com/bdoneq7/novaashartistry/blob/main/assets/images/screenshot.PNG?raw=true "Nova Ash Artistry Screenshot")
 
 ## Installation 
 ### `npm start`
@@ -29,13 +29,13 @@ The page will reload when you make changes.\
 
 ## Deployment 
 
-https://bdoneq7.github.io/brian-react-portfolio/
+https://bdoneq7.github.io/novaashartistry/
 
 ## License 
 Using the MIT License.
 
 ## Contributing 
-This React Portfolio was created by Brian Done. 
+This React Website was created by Brian Done. 
 
 ## Questions
 Please direct questions to Brian Done at briguy2078@gmail.com. 
