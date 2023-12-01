@@ -14,7 +14,9 @@ function Header(props) {
 				<Nav
 					currentTab={currentTab}
 					setCurrentTab={setCurrentTab}
-				></Nav>
+
+					
+				>
 
 <div>
 				<a
@@ -29,6 +31,10 @@ function Header(props) {
 					></img>
 				</a>
 			</div>
+
+				</Nav>
+
+				
 
 			</div>
 		</header>
