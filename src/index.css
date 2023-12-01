@@ -20,7 +20,7 @@ a:link, a:visited {
 
 /* Header Styles */
 header {
-  padding: 20px 35px;
+  padding: 10px 35px;
   background-color: var(--darkestpurple-color);
   display: flex;
   justify-content: space-between;
