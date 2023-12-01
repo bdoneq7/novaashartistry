@@ -18,23 +18,13 @@ function Header(props) {
 					
 				>
 
-<div>
-				<a
-					href="https://www.linkedin.com/in/brian-done-9080b026/"
-					target="_blank"
-					rel="noopener noreferrer"
-				>
-					<img
+				</Nav>
+
+				<img
 						src={require("../../assets/images/linkedin-logo.png")}
 						alt="LinkedIn"
 						className="logo"
 					></img>
-				</a>
-			</div>
-
-				</Nav>
-
-				
 
 			</div>
 		</header>

@@ -7,6 +7,7 @@ function Home(props) {
     <section>
 
       <div className="leftsection">
+        <br/>
       <h1 className="mx-2" id="about">Nova Ash Artistry</h1>
       
           <br/>
@@ -16,7 +17,7 @@ function Home(props) {
       
       
       <div className="rightsection">
-      <img src={hair} className="my-2" style={{ width: "100%", height: "100%" }} alt="" title="" />
+      <img src={hair} className="my-2" style={{ width: "100%", height: "95%" }} alt="Hair Color Example" title="Hair Color Example" />
         
       </div>
 
