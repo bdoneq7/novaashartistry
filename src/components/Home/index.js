@@ -17,7 +17,7 @@ function Home(props) {
       
       
       <div className="rightsection">
-      <img src={hair} className="my-2" style={{ width: "100%", height: "97%" }} alt="Hair Color Example" title="Hair Color Example" />
+      <img src={hair} className="my-2" style={{ width: "100%", height: "100%" }} alt="Hair Color Example" title="Hair Color Example" />
         
       </div>
 
