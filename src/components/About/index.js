@@ -1,5 +1,5 @@
 import React from 'react';
-import testimonial from "../../assets/images/testimonial.jpg";
+import head from "../../assets/images/head.jpg";
 
 function About(props) {
     return (
@@ -15,7 +15,7 @@ function About(props) {
         
         
         <div className="rightsection">
-        <img src={testimonial} style={{ width: "100%", height: "100%" }} alt="Example" title="Example" />
+        <img src={head} style={{ width: "100%", height: "100%" }} alt="Example" title="Example" />
           
         </div>
   

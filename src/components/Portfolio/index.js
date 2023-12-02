@@ -1,5 +1,5 @@
 import React from 'react';
-import hair from "../../assets/images/hair.jpg";
+import sample from "../../assets/images/sample.jpg";
 
 
 function Portfolio(props) {
@@ -17,7 +17,7 @@ function Portfolio(props) {
       
       
       <div className="rightsection">
-      <img src={hair} style={{ width: "100%", height: "100%" }} alt="Hair Color Example" title="Hair Color Example" />
+      <img src={sample} style={{ width: "100%", height: "100%" }} alt="Hair Color Example" title="Hair Color Example" />
         
       </div>
 
