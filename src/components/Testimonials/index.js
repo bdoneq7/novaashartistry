@@ -8,9 +8,10 @@ function Testimonials(props) {
         <div className="leftsection">
           <br/>
         <h1 className="mx-2" id="testimonials">Nova Ash Artistry Testimonials</h1>
-        
-        Summer was very meticulous when coloring my hair and I love the color!<br/>
-            -- Jasimne
+        <br/>
+        <br/>
+        Summer did a fantastic job with my haircut!<br/>
+            -- Jantzen
           
         </div>
         

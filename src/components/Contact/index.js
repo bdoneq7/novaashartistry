@@ -9,6 +9,9 @@ function Contact(props) {
       <div className="leftsection">
         <br/>
       <h1 className="mx-2" id="contact">Contact Summer</h1>
+      <br/>
+      <br/>
+      813.541.3969<br/>
       
           <br/>
           
