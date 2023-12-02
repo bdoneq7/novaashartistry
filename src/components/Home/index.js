@@ -8,7 +8,7 @@ function Home(props) {
 
       <div className="leftsection">
         <br/>
-      <h1 className="mx-2" id="about">Nova Ash Artistry</h1>
+      <h1 className="mx-2" id="home">Nova Ash Artistry</h1>
       
           <br/>
           Nova Ash Artistry provides high quality hair styling by Summer Done.

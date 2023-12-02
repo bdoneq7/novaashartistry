@@ -1,24 +1,27 @@
 import React from 'react';
-import hair from "../../assets/images/hair.jpg";
-
+import testimonial from "../../assets/images/testimonial.jpg";
 
 function About(props) {
-  return (
-    <section>
-      <h1 className="mx-2" id="about">About Nova Ash Artistry</h1>
-
-      <p>
-        Nova Ash Artistry provides high quality hair styling by Summer Done.
-        </p>
-      
-      <div className="my-2 mx-2">
-      <img src={hair} className="my-2" style={{ width: "50%", height: "50%" }} alt="" title="" />
-        
-      </div>
-    </section>
-  );
-
+    return (
+      <section>
   
-}
-
-export default About;
+        <div className="leftsection">
+          <br/>
+        <h1 className="mx-2" id="about">About Nova Ash Artistry</h1>
+        
+        
+          
+        </div>
+        
+        
+        <div className="rightsection">
+        <img src={testimonial} style={{ width: "100%", height: "100%" }} alt="Example" title="Example" />
+          
+        </div>
+  
+      </section>
+    );
+  
+  }
+  
+  export default About;

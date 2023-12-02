@@ -5,16 +5,23 @@ import hair from "../../assets/images/hair.jpg";
 function Services(props) {
   return (
     <section>
-      <h1 className="mx-2" id="about">Nova Ash Artistry Services</h1>
 
-      <p>
-        Nova Ash Artistry provides high quality hair styling by Summer Done.
-        </p>
+      <div className="leftsection">
+        <br/>
+      <h1 className="mx-2" id="services">Nova Ash Artistry Services</h1>
       
-      <div className="my-2 mx-2">
-      <img src={hair} className="my-2" style={{ width: "50%", height: "50%" }} alt="" title="" />
+          <br/>
+          Haircut<br/>
+          Hair Color
         
       </div>
+      
+      
+      <div className="rightsection">
+      <img src={hair} style={{ width: "100%", height: "100%" }} alt="Hair Color Example" title="Hair Color Example" />
+        
+      </div>
+
     </section>
   );
 
