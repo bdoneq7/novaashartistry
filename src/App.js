@@ -6,6 +6,7 @@ import Home from "./components/Home";
 import About from "./components/About";
 import Services from "./components/Services";
 import Portfolio from "./components/Portfolio";
+import Testimonials from "./components/Testimonials";
 import Contact from "./components/Contact";
 
 function App() {
@@ -21,6 +22,8 @@ function App() {
 				return <Services />;
 			case "portfolio":
 				return <Portfolio />;
+			case "testimonials":
+				return <Testimonials />;	
 			case "contact":
 				return <Contact />;
 			default:
