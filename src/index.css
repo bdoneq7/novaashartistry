@@ -115,6 +115,16 @@ header a {
   margin: 0px;
 }
 
+.rightsectiondark {
+  float: left;
+  width: 50%;
+  height: 600px;
+  background-color: #000000;
+  color: #ffffff;
+  padding: 0px;
+  margin: 0px;
+}
+
 
 
 
