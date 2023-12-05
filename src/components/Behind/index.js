@@ -11,9 +11,9 @@ function Behind(props) {
         
         
         <div className="rightsectiondark">
-        <h1 className="mx-2" id="about">Behind the Chair</h1>
+        <h1 id="about">Behind the Chair</h1>
         <br/>
-        <h2>Summer Done</h2><br/>
+        <h3>Summer Done</h3><br/>
         <div class="summertitle">
         Owner, Stylist
         </div>
