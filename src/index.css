@@ -101,9 +101,7 @@ header a {
   background-color: var(--white-color);
   color: #000000;
   margin: 0px;
-  align-items: middle;
-  margin: auto;
-  display: block;
+  text-align: center;
 
 }
 
