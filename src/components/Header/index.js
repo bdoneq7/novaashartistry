@@ -1,6 +1,5 @@
 import React from "react";
 import Nav from "../Nav";
-import logo from "../../assets/images/logocardsmaller.jpg";
 
 function Header(props) {
 	const { currentTab, setCurrentTab } = props;
@@ -8,7 +7,7 @@ function Header(props) {
 	return (
 		<header>
 			<div class="logodiv">
-			<img src={logo} className="my-2" alt="Nova Ash Artistry" title="Nova Ash Artistry" />
+			<span class="logotext">Nova Ash Artistry</span>
 			
 			</div>
 			<div class="linksdiv">

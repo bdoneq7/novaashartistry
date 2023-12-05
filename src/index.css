@@ -17,14 +17,14 @@
 
 
 a:link, a:visited {
-  color: var(--white-color);
+  color: var(--black-color);
 }
 
 /* Header Styles */
 header {
   padding: 0px 35px;
   height: 90px;
-  background-color: var(--darkestpurple-color);
+  background-color: var(--white-color);
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -52,19 +52,30 @@ h3 {
 }
 
 header a {
-  color:var(--white-color);
+  color:var(--black-color);
   text-decoration: none;
 }
 
 
 .logodiv {
-  width: 30%;
+  width: 20%;
+}
+
+.logotext {
+  color: #000000;
+  font-size: 20px;
+  font-weight: bolder;
+  text-shadow: 0 0 10px #000000;
 }
 
 .linksdiv {
   width: 59%;
   align-items: middle;
   line-height: 90px;
+}
+
+.flowerdiv {
+  width: 10%;
 }
 
 .leftsection {
@@ -95,8 +106,8 @@ header a {
 
 
 .footer {
-  color: var(--white-color);
-  background-color: var(--darkestpurple-color);
+  color: var(--black-color);
+  background-color: var(--white-color);
   height: 200px;
   width: 100%;
   float: left;
@@ -140,7 +151,7 @@ body {
   font-size: 18px;
   letter-spacing: .1em;
   background: var(--white-color);
-  color: var(--white-color);
+  color: var(--black-color);
   font-family: 'Poiret One', cursive;             
   font-family: Helvetica, Arial, sans-serif;
 
@@ -254,11 +265,11 @@ li {
 }
 
 nav {
-  background-color: var(--darkestpurple-color);
+  background-color: var(--white-color);
 }
 
 nav a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 nav  li {
@@ -398,7 +409,7 @@ a {
 }
 
 .navActive {
-  color: var(--lightestpurple-color);
+  color: #B0B0B0;
 }
 
 .project-title {
