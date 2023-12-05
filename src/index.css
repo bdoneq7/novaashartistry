@@ -58,7 +58,7 @@ header a {
 
 
 .logodiv {
-  width: 15%;
+  width: 20%;
   line-height: 90px;
 }
 
@@ -78,6 +78,7 @@ header a {
 
 .flowerdiv {
   width: 10%;
+  line-height: 90px;
 }
 
 .leftsection {
