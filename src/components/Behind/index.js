@@ -15,6 +15,7 @@ function Behind(props) {
         
         
         <div className="rightsectiondark">
+          <br/>
         <h3>Summer Done</h3>
         <div class="summertitle">
         OWNER, SYTLIST
