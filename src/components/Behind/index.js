@@ -13,9 +13,9 @@ function Behind(props) {
         <div className="rightsectiondark">
         <h1 id="about">Behind the Chair</h1>
         <br/>
-        <h3>Summer Done</h3><br/>
+        <h3>Summer Done</h3>
         <div class="summertitle">
-        Owner, Stylist
+        OWNER, SYTLIST
         </div>
         <br/>
         I have a passion for helping people feel their best! This has led me on a journey through the years of working of working with
