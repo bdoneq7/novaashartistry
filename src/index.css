@@ -81,6 +81,19 @@ header a {
   line-height: 90px;
 }
 
+.homesectionpic {
+  width: 100%;
+  height: 600px;
+}
+
+.aboutussection {
+  width: 100%;
+  height: 150px;
+  background-color: var(--white-color);
+  color: #000000;
+  padding: 10px;
+}
+
 .leftsection {
   float: left;
   width: 50%;

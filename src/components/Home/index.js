@@ -1,24 +1,18 @@
 import React from 'react';
-import hair from "../../assets/images/hair.jpg";
+import homeback from "../../assets/images/homeback.jpg";
 
 
 function Home(props) {
   return (
     <section>
 
-      <div className="leftsection">
-        <br/>
-      <h1 className="mx-2" id="home">Nova Ash Artistry</h1>
-      
-          <br/>
-        
-        
+      <div className="homesectionpic">
+        <img src={homeback} style={{ width: "100%", height: "100%" }} alt="Nova Ash Artistry" title="Nove Ash Artistry" />
       </div>
       
       
-      <div className="rightsection">
-      <img src={hair} style={{ width: "100%", height: "100%" }} alt="Hair Color Example" title="Hair Color Example" />
-        
+      <div className="aboutussection">
+      About Us Section Info
       </div>
 
     </section>
