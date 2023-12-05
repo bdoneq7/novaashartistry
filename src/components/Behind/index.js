@@ -4,15 +4,17 @@ import behindchair from "../../assets/images/behindchair.jpg";
 function Behind(props) {
     return (
       <section>
-  
+        
+        <div className="mainlinktitle">
+        <h1 id="about">Behind the Chair</h1>
+        </div>
+
         <div className="leftsectionpicdark">
           <img src={behindchair} style={{ width: "80%", height: "80%" }} alt="Behind the Chair - Summer Done" title="Behind the Chair - Summer Done" />
         </div>
         
         
         <div className="rightsectiondark">
-        <h1 id="about">Behind the Chair</h1>
-        <br/>
         <h3>Summer Done</h3>
         <div class="summertitle">
         OWNER, SYTLIST
