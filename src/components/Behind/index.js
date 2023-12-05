@@ -6,7 +6,7 @@ function Behind(props) {
       <section>
         
         <div className="mainlinktitle">
-        <h1 id="about">Behind the Chair</h1>
+        <h1 id="about">BEHIND THE CHAIR</h1>
         </div>
 
         <div className="leftsectionpicdark">
