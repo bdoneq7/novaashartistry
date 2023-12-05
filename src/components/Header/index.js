@@ -6,23 +6,23 @@ function Header(props) {
 
 	return (
 		<header>
+
 			<div class="logodiv">
-			<span class="logotext">Nova Ash Artistry</span>
-			
+				<span class="logotext">Nova Ash Artistry</span>
 			</div>
+
 			<div class="linksdiv">
 				<Nav
 					currentTab={currentTab}
 					setCurrentTab={setCurrentTab}
-
-					
-				>
-					
+				>	
 				</Nav>
-
-				
-
 			</div>
+
+			<div class="flowerdiv">
+				Flower
+			</div>
+
 		</header>
 	);
 }
