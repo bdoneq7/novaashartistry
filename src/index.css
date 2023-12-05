@@ -98,7 +98,7 @@ header a {
   float: left;
   width: 50%;
   height: 600px;
-  background-color: var(--lightestpurple-color);
+  background-color: var(--white-color);
   color: #000000;
   padding: 10px;
   margin: 0px;
@@ -109,7 +109,7 @@ header a {
   float: left;
   width: 50%;
   height: 600px;
-  background-color: var(--lightestpurple-color);
+  background-color: var(--white-color);
   color: #000000;
   padding: 0px;
   margin: 0px;
