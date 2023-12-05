@@ -5,7 +5,7 @@ function Behind(props) {
     return (
       <section>
   
-        <div className="leftsectionpic">
+        <div className="leftsectionpicdark">
           <img src={behindchair} style={{ width: "80%", height: "80%" }} alt="Behind the Chair - Summer Done" title="Behind the Chair - Summer Done" />
         </div>
         

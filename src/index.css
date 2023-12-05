@@ -94,11 +94,11 @@ header a {
   padding: 10px;
 }
 
-.leftsectionpic {
+.leftsectionpicdark {
   float: left;
   width: 40%;
   height: 600px;
-  background-color: var(--white-color);
+  background-color: var(--black-color);
   color: #000000;
   margin: 0px;
   text-align: center;
