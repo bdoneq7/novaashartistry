@@ -1,13 +1,13 @@
 import React from 'react';
 import head from "../../assets/images/head.jpg";
 
-function About(props) {
+function Behind(props) {
     return (
       <section>
   
         <div className="leftsection">
           <br/>
-        <h1 className="mx-2" id="about">About Nova Ash Artistry</h1>
+        <h1 className="mx-2" id="about">Behind the Chair</h1>
         
         
           
@@ -24,4 +24,4 @@ function About(props) {
   
   }
   
-  export default About;
+  export default Behind;

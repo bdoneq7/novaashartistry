@@ -10,8 +10,11 @@ function Nav(props) {
 				<li className={currentTab === "home" ? "mx-2 navActive" : "mx-2"}>
 					<span onClick={() => setCurrentTab("home")}>Home</span>
 				</li>
-				<li className={currentTab === "about" ? "mx-2 navActive" : "mx-2"}>
-					<span onClick={() => setCurrentTab("about")}>About Summer</span>
+				<li className={currentTab === "behind" ? "mx-2 navActive" : "mx-2"}>
+					<span onClick={() => setCurrentTab("behind")}>Behind the Chair</span>
+				</li>
+				<li className={currentTab === "goals" ? "mx-2 navActive" : "mx-2"}>
+					<span onClick={() => setCurrentTab("goals")}>Goals & Objectives</span>
 				</li>
 				<li className={currentTab === "services" ? "mx-2 navActive" : "mx-2"}>
 					<span onClick={() => setCurrentTab("services")}>Services</span>
@@ -19,12 +22,8 @@ function Nav(props) {
 				<li className={currentTab === "portfolio" ? "mx-2 navActive" : "mx-2"}>
 					<span onClick={() => setCurrentTab("portfolio")}>Portfolio</span>
 				</li>
-				<li className={currentTab === "testimonials" ? "mx-2 navActive" : "mx-2"}>
-					<span onClick={() => setCurrentTab("testimonials")}>Testimonials</span>
-				</li>
-				<li className={currentTab === "contact" ? "mx-2 navActive" : "mx-2"}>
-					<span onClick={() => setCurrentTab("contact")}>Contact</span>
-				</li>
+				
+
 			</ul>
 		</nav>
 	);

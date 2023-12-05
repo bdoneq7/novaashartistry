@@ -8,10 +8,10 @@ function Portfolio(props) {
 
       <div className="leftsection">
         <br/>
-      <h1 className="mx-2" id="portfolio">Nova Ash Artistry</h1>
+      <h1 className="mx-2" id="portfolio">Portfolio</h1>
       
           <br/>
-          Nova Ash Artistry provides high quality hair styling by Summer Done.
+          
         
       </div>
       

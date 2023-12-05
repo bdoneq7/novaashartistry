@@ -8,11 +8,10 @@ function Services(props) {
 
       <div className="leftsection">
         <br/>
-      <h1 className="mx-2" id="services">Nova Ash Artistry Services</h1>
+      <h1 className="mx-2" id="services">Services</h1>
       
           <br/>
-          Haircut<br/>
-          Hair Color
+          
         
       </div>
       

@@ -2,16 +2,15 @@ import React from 'react';
 import hair from "../../assets/images/hair.jpg";
 
 
-function Contact(props) {
+function Goals(props) {
   return (
     <section>
 
       <div className="leftsection">
         <br/>
-      <h1 className="mx-2" id="contact">Contact Summer</h1>
+      <h1 className="mx-2" id="contact">Goals & Objectives</h1>
       <br/>
-      <br/>
-      813.541.3969<br/>
+      
       
           <br/>
           
@@ -29,4 +28,4 @@ function Contact(props) {
 
 }
 
-export default Contact;
+export default Goals;
