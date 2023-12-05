@@ -5,16 +5,18 @@ function Behind(props) {
     return (
       <section>
   
-        <div className="leftsection">
-          <img src={behindchair} style={{ width: "70%", height: "70%" }} alt="Behind the Chair - Summer Done" title="Behind the Chair - Summer Done" />
+        <div className="leftsectionpic">
+          <img src={behindchair} style={{ width: "80%", height: "80%" }} alt="Behind the Chair - Summer Done" title="Behind the Chair - Summer Done" />
         </div>
         
         
         <div className="rightsectiondark">
         <h1 className="mx-2" id="about">Behind the Chair</h1>
         <br/>
-        Summer Done<br/>
-        Owner, Stylist<br/>
+        <h2>Summer Done</h2><br/>
+        <div class="summertitle">
+        Owner, Stylist
+        </div>
         <br/>
         I have a passion for helping people feel their best! This has led me on a journey through the years of working of working with
         people of all ages and abilities, helping them live their daily lives or in a social service capacity.<br/>
