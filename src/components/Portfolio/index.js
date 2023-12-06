@@ -316,9 +316,9 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project26} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3><div class="portfoliotitle">GRAY BLENDING</div></h3>
+          <h3><div class="portfoliotitle">GRAY BLENDING AFTER</div></h3>
         
-        <br/>Part 2 - Gray Blending and Color Correction with Deep Conditioning Treatment and Blunt Cut
+        <br/>Part 2 - Gray Blending and Color Correction with<br/> Deep Conditioning Treatment and Blunt Cut
         
         </div>
 
