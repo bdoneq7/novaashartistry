@@ -47,7 +47,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">CUT</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         180 Cut with curtain bangs and flat iron curl
+        </div>
           
         </div>
 
@@ -58,7 +60,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Marcel Iron Barrel Curls
+        </div>
         </div>
 
         <div className="sectionpicdarkport">
@@ -67,7 +71,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Marcel Iron Spiral Curls
+        </div>
         </div>
 
         <div className="sectionpicdarkportsliver">
