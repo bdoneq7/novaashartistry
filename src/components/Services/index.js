@@ -48,7 +48,7 @@ function Services(props) {
         
         <div className="servicessectiondarktype">
         
-        &#8226; Consulationbr<br/>
+        &#8226; Consulation<br/>
         &#8226; Flat Iron<br/>
         &#8226; Perm
       
