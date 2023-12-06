@@ -2,6 +2,7 @@ import React from 'react';
 import empowerment from "../../assets/images/empowerment.jpg";
 import education from "../../assets/images/education.jpg";
 import inclusion from "../../assets/images/inclusion.jpg";
+import employeewellness from "../../assets/images/employeewellness.jpg";
 
 
 function Goals(props) {
@@ -59,6 +60,24 @@ function Goals(props) {
 
         <div className="leftsectionpicdark">
           <img src={inclusion} style={{ width: "80%", height: "80%" }} alt="Inclusion" title="Inclusion" />
+        </div>
+
+        <div className="leftsectionpicdark">
+          <img src={employeewellness} style={{ width: "80%", height: "80%" }} alt="Employee Wellness" title="Employee Wellness" />
+        </div>
+
+        <div className="rightsectiondark">
+          <br/>
+        <h3>EMPLOYEE WELLNESS</h3>
+        
+        <br/>
+        Employees with Nova Ash Artistry are the strength of the business! All employees will be encouraged
+        to have a robust work-life balance. Schedules are flexible to adjust for family needs.<br/>
+        <br/>
+        Ergonomics are critical to the well being of all stylists. We will provide adjustable adjustable height
+        chairs, saddle stools, trolleys, and anti-fatigue mats. A variety of glove sizes and good ventilation
+        will be readily available in the color bar. A massage chair, calming music, and water cooler will be at 
+        all staff disposal in the employee break room.
         </div>
   
       </section>
