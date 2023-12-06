@@ -17,20 +17,30 @@ function Services(props) {
 
         <div className="servicessectiondark">
           
-        <h3>HAIR SERVICES</h3>
+        <h3 class="moveright">HAIR SERVICES</h3>
         
         <div className="servicessectiondarktype">
         <ul>
           <li>&#8226; Consulation</li>
           <li>&#8226; Shampoo & Shear Cut</li>
           <li>&#8226; Shampoo, Shear Cut, Style</li>
+          <li>&#8226; Clipper Cut</li>
+          <li>&#8226; Combination Cut</li>
+          <li>&#8226; Child Cut 12 and Under</li>
+          <li>&#8226; Shampoo and Blow dry Only</li>
+          <li>&#8226; Deep Conditioner add-on</li>
       </ul>
       </div>
 
       <div className="servicessectiondarkprice">
       FREE<br/>
       $45<br/>
-      $60
+      $60<br/>
+      $30<br/>
+      $50<br/>
+      $20<br/>
+      $40<br/>
+      $10
       </div>
 
 
@@ -40,7 +50,7 @@ function Services(props) {
         
         <div className="servicessectiondark">
           
-        <h3>SPECIALIZED SERVICES</h3>
+        <h3 class="moveright">SPECIALIZED SERVICES</h3>
         
         <div className="servicessectiondarktype">
         <ul>

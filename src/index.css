@@ -186,6 +186,10 @@ header a {
   margin: 0px;
 }
 
+.moveright {
+  padding-left: 25px;
+}
+
 .summertitle {
   width: 25%;
   height: 45px;
