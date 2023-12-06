@@ -318,8 +318,10 @@ function Portfolio(props) {
           <br/>
           <h3><div class="portfoliotitle">GRAY BLENDING AFTER</div></h3>
         
-        <br/>Part 2 - Gray Blending and Color Correction with<br/> Deep Conditioning Treatment and Blunt Cut
-        
+        <br/>
+        <div class="portfoliodesc">
+        Part 2 - Gray Blending, Color Correction, Deep Conditioning Treatment and Blunt Cut
+        </div>
         </div>
 
         <div className="sectionpicdarkportsliver">

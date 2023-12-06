@@ -157,6 +157,8 @@ header a {
 
 }
 
+
+
 .sectionpicdarkportsliver {
   float: left;
   width: 1%;
@@ -168,6 +170,22 @@ header a {
   padding-top: 25px;
 
 }
+
+
+.portfoliodesc {
+  width: 82%;
+  height: 45px;
+  line-height: 45px;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  margin-left: 50px;
+  text-wrap: wrap;
+
+  
+}
+
 
 .rightsection {
   float: left;
