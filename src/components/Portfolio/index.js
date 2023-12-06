@@ -24,6 +24,7 @@ import project23 from "../../assets/images/project23.jpg";
 import project24 from "../../assets/images/project24.jpg";
 import project24before from "../../assets/images/project24before.jpg";
 import project25 from "../../assets/images/project25.jpg";
+import project25before from "../../assets/images/project25before.jpg";
 import project26 from "../../assets/images/project26.jpg";
 import project26before from "../../assets/images/project26before.jpg";
 
@@ -253,11 +254,20 @@ function Portfolio(props) {
         </div>
 
         <div className="sectionpicdarkport">
+          <img src={project25before} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
+          <br/>
+          <h3>COMBINATION CUT BEFORE</h3>
+        
+        <br/>Part 1 - Prior to Clipper with Shears
+        
+        </div>
+
+        <div className="sectionpicdarkport">
           <img src={project25} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>COMBINATION CUT</h3>
+          <h3>COMBINATION CUT AFTER</h3>
         
-        <br/>Clipper with Shears
+        <br/>Part 2 - Clipper with Shears
         
         </div>
 
