@@ -55,9 +55,11 @@ function Services(props) {
       </div>
 
       <div className="servicessectiondarkprice">
-        FREE<br/>
-        $45<br/>
-        $65+
+      <ul>
+          <li>FREE</li>
+          <li>$45</li>
+          <li>$65+</li>
+      </ul>
       </div>
         
         </div>

@@ -166,7 +166,7 @@ header a {
   float: left;
   width: 55%;
   height: 30px;
-  line-height: 30px;
+  
   background-color: #000000;
   color: #ffffff;
   padding: 15px;
@@ -178,7 +178,6 @@ header a {
   float: left;
   width: 35%;
   height: 30px;
-  line-height: 30px;
   background-color: #000000;
   color: #ffffff;
   padding: 15px;
