@@ -1,27 +1,33 @@
 import React from 'react';
-import sample from "../../assets/images/sample.jpg";
+import project1 from "../../assets/images/project1.jpg";
+import project2 from "../../assets/images/project2.jpg";
+import project3 from "../../assets/images/project3.jpg";
 
 
 function Portfolio(props) {
   return (
     <section>
 
-      <div className="leftsection">
-        <br/>
-      <h1 className="mx-2" id="portfolio">Portfolio</h1>
-      
-          <br/>
-          
+<div className="mainlinktitle">
+        <h1 id="about">PORTFOLIO</h1>
+        </div>
         
-      </div>
-      
-      
-      <div className="rightsection">
-      <img src={sample} style={{ width: "100%", height: "100%" }} alt="Hair Color Example" title="Hair Color Example" />
-        
-      </div>
 
-    </section>
+        <div className="sectionpicdarkport">
+          <img src={project1} style={{ width: "80%", height: "80%" }} alt="Empowerment" title="Empowerment" />
+        </div>
+
+        <div className="sectionpicdarkport">
+          <img src={project2} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
+        </div>
+
+        <div className="sectionpicdarkport">
+          <img src={project3} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
+        </div>
+
+
+  
+      </section>
     
   );
 
