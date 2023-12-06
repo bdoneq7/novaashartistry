@@ -101,6 +101,10 @@ function Portfolio(props) {
         Updo with Curls
         </div>
 
+        <div className="sectionpicdarkportsliver">
+          
+        </div>
+
         <div className="sectionpicdarkport">
           <img src={project7} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
@@ -110,9 +114,7 @@ function Portfolio(props) {
         Updo with Curls
         </div>
 
-        <div className="sectionpicdarkportsliver">
-          
-        </div>
+        
 
         <div className="sectionpicdarkport">
           <img src={project8} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
