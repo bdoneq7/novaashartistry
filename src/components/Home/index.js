@@ -7,7 +7,7 @@ function Home(props) {
     <section>
 
       <div className="homesectionpic">
-        <img src={homeback} style={{ width: "100%", height: "100%" }} alt="Nova Ash Artistry" title="Nove Ash Artistry" />
+        <img src={homeback} style={{ width: "100%", height: "100%" }} alt="" title="" />
       </div>
       
       
