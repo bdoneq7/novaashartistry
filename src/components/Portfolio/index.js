@@ -55,7 +55,7 @@ function Portfolio(props) {
           <img src={project2} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
           
-          <h3>STYLE</h3>
+          <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
         Marcel Iron Barrel Curls
@@ -64,7 +64,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project3} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>STYLE</h3>
+          <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
         Marcel Iron Spiral Curls
