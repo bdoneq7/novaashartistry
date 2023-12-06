@@ -169,6 +169,7 @@ header a {
   background-color: #000000;
   color: #ffffff;
   margin: 0px;
+  padding-top: 10px;
 }
 
 .servicessectiondarkprice {
@@ -178,6 +179,7 @@ header a {
   background-color: #000000;
   color: #ffffff;
   padding-left: -20px;
+  padding-top: 10px;
   margin: 0px;
 }
 
