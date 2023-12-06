@@ -15,14 +15,24 @@ function Portfolio(props) {
 
         <div className="sectionpicdarkport">
           <img src={project1} style={{ width: "80%", height: "80%" }} alt="Empowerment" title="Empowerment" />
+          <br/>
+          Project 1
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project2} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
+          <br/>
+          Project 2
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project3} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
+          <br/>
+          Project 3
+        </div>
+
+        <div className="sectionpicdarkportsliver">
+          
         </div>
 
 

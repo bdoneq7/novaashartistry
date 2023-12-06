@@ -144,6 +144,18 @@ header a {
 
 }
 
+.sectionpicdarkportsliver {
+  float: left;
+  width: 1%;
+  height: 600px;
+  background-color: var(--black-color);
+  color: #ffffff;
+  margin: 0px;
+  text-align: center;
+  padding-top: 25px;
+
+}
+
 .rightsection {
   float: left;
   width: 50%;
