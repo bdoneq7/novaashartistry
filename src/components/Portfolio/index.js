@@ -1,5 +1,5 @@
 import React from 'react';
-import project1 from "../../assets/images/project1.jpg";
+
 import project2 from "../../assets/images/project2.jpg";
 import project3 from "../../assets/images/project3.jpg";
 import project4 from "../../assets/images/project4.jpg";
@@ -18,11 +18,11 @@ import project16 from "../../assets/images/project16.jpg";
 import project17 from "../../assets/images/project17.jpg";
 import project18 from "../../assets/images/project18.jpg";
 import project19 from "../../assets/images/project19.jpg";
-import project20 from "../../assets/images/project20.jpg";
 import project21 from "../../assets/images/project21.jpg";
 import project22 from "../../assets/images/project22.jpg";
 import project23 from "../../assets/images/project23.jpg";
 import project24 from "../../assets/images/project24.jpg";
+import project24before from "../../assets/images/project24before.jpg";
 import project25 from "../../assets/images/project25.jpg";
 
 
@@ -82,7 +82,7 @@ function Portfolio(props) {
           <h3>STYLE</h3>
         
         <br/>
-        ?
+        Box Braids with added Hair
         </div>
 
         <div className="sectionpicdarkport">
@@ -115,98 +115,148 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project9} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 9
+          <h3>CUT</h3>
+        
+        <br/>
+        Pixie Cut with Shears
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project10} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 10
+          <h3>STYLE</h3>
+        
+        <br/>
+        Color Removal and Pixie Style
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project11} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 11
+          <h3>STYLE</h3>
+        
+        <br/>
+        Flat Iron Waves
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project12} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 12
+          <h3>COLOR</h3>
+        
+        <br/>
+        Matrix Admiral Navy and Royal Purple Block Coloring
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project13} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 13
+          <h3>BLONDING</h3>
+        
+        <br/>
+        Custom Foil and Razor Bob
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project14} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 14
+          <h3>STYLE</h3>
+        
+        <br/>
+        Block Coloring and Pixie Cut with Shears
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project15} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 15
+          <h3>CLIPPER CUT</h3>
+        
+        <br/>
+        Clipper Cut Shears on the top and some Blending
         </div>
 
 
         <div className="sectionpicdarkport">
           <img src={project17} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 17
+          <h3>STYLE</h3>
+        
+        <br/>
+        Flat Twist Design Faux Hawk
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project18} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 18
+          <h3>STYLE</h3>
+        
+        <br/>
+        Corn Rows
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project19} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 19
+          <h3>STYLE</h3>
+        
+        <br/>
+        French Braids
         </div>
 
-        <div className="sectionpicdarkport">
-          <img src={project20} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
-          <br/>
-          Project 20
-        </div>
+        
 
         <div className="sectionpicdarkport">
           <img src={project21} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 21
+          <h3>STYLE</h3>
+        
+        <br/>
+        Curly Faux Hawk with Dutch Braids
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project22} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 22
+          <h3>MAKE-UP</h3>
+        
+        <br/>
+        Dramatic Eye Make-Up Application
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project23} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 23
+          <h3>CUT & COLOR</h3>
+        
+        <br/>
+        Pixie Cut Shears and Custom Red Brown Color
+        </div>
+
+        <div className="sectionpicdarkport">
+          <img src={project24before} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
+          <br/>
+          <h3>CUT & COLOR BEFORE</h3>
+        
+        <br/>
+        Part 1 - Prior to Color Application and Trim
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project24} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 24
+          <h3>CUT & COLOR AFTER</h3>
+        
+        <br/>
+        Part 2 - Shear Trim and Custom Red Color Refresh
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project25} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 25
+          <h3>COMBINATION CUT</h3>
+        
+        <br/>Clipper with Shears
+        
         </div>
 
         <div className="sectionpicdarkportsliver">
