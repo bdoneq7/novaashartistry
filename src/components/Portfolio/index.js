@@ -24,6 +24,8 @@ import project23 from "../../assets/images/project23.jpg";
 import project24 from "../../assets/images/project24.jpg";
 import project24before from "../../assets/images/project24before.jpg";
 import project25 from "../../assets/images/project25.jpg";
+import project26 from "../../assets/images/project26.jpg";
+import project26before from "../../assets/images/project26before.jpg";
 
 
 function Portfolio(props) {
@@ -256,6 +258,24 @@ function Portfolio(props) {
           <h3>COMBINATION CUT</h3>
         
         <br/>Clipper with Shears
+        
+        </div>
+
+        <div className="sectionpicdarkport">
+          <img src={project26before} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
+          <br/>
+          <h3>GRAY BLENDING BEFORE</h3>
+        
+        <br/>Part 1 - Prior to Correction and Cut
+        
+        </div>
+
+        <div className="sectionpicdarkport">
+          <img src={project26} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
+          <br/>
+          <h3>GRAY BLENDING</h3>
+        
+        <br/>Part 2 - Gray Blending and Color Correction with Deep Conditioning Treatment and Blunt Cut
         
         </div>
 
