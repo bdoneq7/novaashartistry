@@ -21,7 +21,7 @@ function Header(props) {
 			</div>
 
 			<div class="flowerdiv">
-			<img class="flowerimage" src={flower} style={{ width: "80%", height: "90%" }} alt="Nova Ash Artistry" title="Nova Ash Artistry" />
+			<img class="flowerimage" src={flower} style={{ width: "80%", height: "85%" }} alt="Nova Ash Artistry" title="Nova Ash Artistry" />
 			</div>
 
 		</header>
