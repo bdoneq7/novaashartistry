@@ -1,5 +1,6 @@
 import React from "react";
 import Nav from "../Nav";
+import flower from "../../assets/images/flower.png";
 
 function Header(props) {
 	const { currentTab, setCurrentTab } = props;
@@ -20,7 +21,7 @@ function Header(props) {
 			</div>
 
 			<div class="flowerdiv">
-				Flower
+			<img src={flower} style={{ width: "20%", height: "20%" }} alt="Nova Ash Artistry" title="Nova Ash Artistry" />
 			</div>
 
 		</header>
