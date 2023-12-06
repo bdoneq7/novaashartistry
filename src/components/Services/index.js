@@ -10,7 +10,9 @@ function Services(props) {
         <h1 id="about">SERVICES</h1>
         </div>
 
-        * PRICES VARY DEPENDENT ON CONSULTATION *
+        <div className="serviceslinktitle">
+        <h2>* PRICES VARY DEPENDENT ON CONSULTATION *</h2>
+        </div>
 
         <div className="servicessectiondark">
           <br/>
