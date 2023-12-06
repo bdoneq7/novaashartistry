@@ -38,7 +38,7 @@ function Portfolio(props) {
 
         <div className="sectionpicdarkport">
         <Router>
-        <Link to='/' >
+        <Link to='/project1.js' >
           <img src={project1} style={{ width: "80%", height: "80%" }} alt="Empowerment" title="Empowerment" />
           </Link>
           <br/>
