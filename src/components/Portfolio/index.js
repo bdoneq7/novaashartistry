@@ -36,17 +36,14 @@ function Portfolio(props) {
 
         <div className="rightsectiondark">
           <br/>
-        <h3>PROJECT 1</h3>
+        <h3>CUT</h3>
         
         <br/>
-        We believe everyone sitting in our chairs should have the opportunity to leave feeling their best and refreshed.<br/>
-        <br/>
-        Through our phenomenal hair, color, and skin services, Nova Ash Artistry empowers individuals to feel beautiful,
-        confident, and relazed.
+        180 Cut with curtain bangs and flat iron curl
         </div>
 
         <div className="leftsectionpicdark">
-          <img src={project1} style={{ width: "80%", height: "80%" }} alt="Empowerment" title="Empowerment" />
+          <img src={project16} style={{ width: "50%", height: "50%" }} alt="180 Cut with Curtain Bangs and Flat iron Curl" title="180 Cut with Curtain Bangs and Flat Iron Curl" />
         </div>
         
 
