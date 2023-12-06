@@ -186,6 +186,14 @@ header a {
   
 }
 
+.footersection {
+  float: left;
+  width: 25%;
+  height: 200px;
+  color: #000000;
+  line-height: 200px;
+}
+
 
 .rightsection {
   float: left;
