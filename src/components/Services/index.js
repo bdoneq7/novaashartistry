@@ -47,19 +47,17 @@ function Services(props) {
         <h3 class="moveright">SPECIALIZED SERVICES</h3>
         
         <div className="servicessectiondarktype">
-        <ul>
-          <li>&#8226; Consulation</li>
-          <li>&#8226; Flat Iron</li>
-          <li>&#8226; Perm</li>
-      </ul>
+        
+        &#8226; Consulationbr<br/>
+        &#8226; Flat Iron<br/>
+        &#8226; Perm
+      
       </div>
 
       <div className="servicessectiondarkprice">
-      <ul>
-          <li>FREE</li>
-          <li>$45</li>
-          <li>$65+</li>
-      </ul>
+      FREE<br/>
+      $45<br/>
+      $65+
       </div>
         
         </div>
