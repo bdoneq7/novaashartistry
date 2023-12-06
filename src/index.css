@@ -164,7 +164,7 @@ header a {
 
 .servicessectiondarktype {
   float: left;
-  width: 60%;
+  width: 55%;
   height: 30px;
   line-height: 30px;
   background-color: #000000;
@@ -176,7 +176,7 @@ header a {
 
 .servicessectiondarkprice {
   float: left;
-  width: 40%;
+  width: 35%;
   height: 30px;
   line-height: 30px;
   background-color: #000000;
