@@ -1,6 +1,7 @@
 import React from 'react';
-import goalsone from "../../assets/images/goals1.jpg";
+import empowerment from "../../assets/images/empowerment.jpg";
 import education from "../../assets/images/education.jpg";
+import inclusion from "../../assets/images/inclusion.jpg";
 
 
 function Goals(props) {
@@ -24,7 +25,7 @@ function Goals(props) {
         </div>
 
         <div className="leftsectionpicdark">
-          <img src={goalsone} style={{ width: "80%", height: "80%" }} alt="Empowerment" title="Empowerment" />
+          <img src={empowerment} style={{ width: "80%", height: "80%" }} alt="Empowerment" title="Empowerment" />
         </div>
 
         <div className="leftsectionpicdark">
@@ -41,6 +42,23 @@ function Goals(props) {
         <br/>
         All staff will also receive continuing education in customer service skills, ensuring the best experience
         for our staff and guests.
+        </div>
+
+        <div className="rightsectiondark">
+          <br/>
+        <h3>INCLUSION</h3>
+        
+        <br/>
+        We strive to make our services applicable to everyone. Nova Ash Artistry will provide reasonable accomodation
+        necessary to ensure a pleasant experience for all of our guests.<br/>
+        <br/>
+        This may include flexible salon availability for guests with sensory needs (quiet hours, softer ligthing, softer
+        music), adjustable salon chairs for mobility issues, textured flooring for the visually impaired, gentle and 
+        fragrance free products for sensitivities/allergies.
+        </div>
+
+        <div className="leftsectionpicdark">
+          <img src={inclusion} style={{ width: "80%", height: "80%" }} alt="Inclusion" title="Inclusion" />
         </div>
   
       </section>
