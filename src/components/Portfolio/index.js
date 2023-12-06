@@ -33,6 +33,21 @@ function Portfolio(props) {
 <div className="mainlinktitle">
         <h1 id="about">PORTFOLIO</h1>
         </div>
+
+        <div className="rightsectiondark">
+          <br/>
+        <h3>PROJECT 1</h3>
+        
+        <br/>
+        We believe everyone sitting in our chairs should have the opportunity to leave feeling their best and refreshed.<br/>
+        <br/>
+        Through our phenomenal hair, color, and skin services, Nova Ash Artistry empowers individuals to feel beautiful,
+        confident, and relazed.
+        </div>
+
+        <div className="leftsectionpicdark">
+          <img src={project1} style={{ width: "80%", height: "80%" }} alt="Empowerment" title="Empowerment" />
+        </div>
         
 
         <div className="sectionpicdarkport">
