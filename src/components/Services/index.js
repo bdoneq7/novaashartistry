@@ -16,14 +16,25 @@ function Services(props) {
         </div>
 
         <div className="servicessectiondark">
-          <br/>
+          
         <h3>HAIR SERVICES</h3>
-        <br/>
+        
+        <div className="servicessectiondarktype">
         <ul>
           <li>Consulation</li>
           <li>Shampoo & Shear Cut</li>
           <li>Shampoo, Shear Cut, Style</li>
       </ul>
+      </div>
+
+      <div className="servicessectiondarkprice">
+      FREE<br/>
+      $45<br/>
+      $60
+      </div>
+
+
+
         </div>
         
         
