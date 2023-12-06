@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import project1 from "../../assets/images/project1.jpg";
 import project2 from "../../assets/images/project2.jpg";
 import project3 from "../../assets/images/project3.jpg";
@@ -37,9 +36,9 @@ function Portfolio(props) {
         
 
         <div className="sectionpicdarkport">
-        <Link to="project1.js">
+        <a href="project1.js">
           <img src={project1} style={{ width: "80%", height: "80%" }} alt="Empowerment" title="Empowerment" />
-          </Link>
+          </a>
           <br/>
           Project 1
         </div>
