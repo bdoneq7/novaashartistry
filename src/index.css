@@ -306,8 +306,9 @@ a:hover {
   text-decoration: underline;
 }
 
-li {
-  color: #ffffff;
+.bullet {
+  list-style-type:disc #ffffff;
+
 }
 
 
