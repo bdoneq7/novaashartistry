@@ -70,6 +70,10 @@ function Portfolio(props) {
         Marcel Iron Spiral Curls
         </div>
 
+        <div className="sectionpicdarkportsliver">
+          
+        </div>
+
         <div className="sectionpicdarkport">
           <img src={project4} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
