@@ -11,8 +11,8 @@ function Services(props) {
         </div>
 
         <div className="serviceslinktitle">
-          <br/>
-        <h4>* PRICES VARY DEPENDENT ON CONSULTATION *</h4>
+          
+        * PRICES VARY DEPENDENT ON CONSULTATION *
         </div>
 
         <div className="servicessectiondark">
