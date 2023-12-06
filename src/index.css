@@ -147,7 +147,7 @@ header a {
 .sectionpicdarkport {
   float: left;
   width: 33%;
-  height: 635px;
+  height: 675px;
   background-color: var(--black-color);
   color: #ffffff;
   margin: 0px;
@@ -162,7 +162,7 @@ header a {
 .sectionpicdarkportsliver {
   float: left;
   width: 1%;
-  height: 635px;
+  height: 675px;
   background-color: var(--black-color);
   color: #ffffff;
   margin: 0px;
