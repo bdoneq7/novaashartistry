@@ -12,9 +12,10 @@ function Services(props) {
 
         * PRICES VARY DEPENDENT ON CONSULTATION *
 
-        <div className="rightsectiondark">
+        <div className="servicessectiondark">
           <br/>
         <h3>HAIR SERVICES</h3>
+        <br/>
         <ul>
           <li>Consulation</li>
           <li>Shampoo & Shear Cut</li>
@@ -23,10 +24,10 @@ function Services(props) {
         </div>
         
         
-        <div className="rightsectiondark">
+        <div className="servicessectiondark">
           <br/>
         <h3>SPECIALIZED SERVICES</h3>
-        
+        <br/>
         <ul>
           <li>Consulation</li>
           <li>Flat Iron</li>

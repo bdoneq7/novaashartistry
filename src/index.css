@@ -139,6 +139,16 @@ header a {
   margin: 0px;
 }
 
+.servicessectiondark {
+  float: left;
+  width: 50%;
+  height: 600px;
+  background-color: #000000;
+  color: #ffffff;
+  padding: 15px;
+  margin: 0px;
+}
+
 .summertitle {
   width: 25%;
   height: 45px;
