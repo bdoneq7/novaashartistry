@@ -1,25 +1,39 @@
 import React from 'react';
-import services from "../../assets/images/services.jpg";
+
 
 
 function Services(props) {
   return (
     <section>
 
-      <div className="leftsection">
-        <br/>
-      <h1 className="mx-2" id="services">Services</h1>
-      
+<div className="mainlinktitle">
+        <h1 id="about">SERVICES</h1>
+        </div>
+
+        * PRICES VARY DEPENDENT ON CONSULTATION *
+
+        <div className="rightsectiondark">
           <br/>
-          
+        <h3>HAIR SERVICES</h3>
+        <ul>
+          <li>Consulation</li>
+          <li>Shampoo & Shear Cut</li>
+          <li>Shampoo, Shear Cut, Style</li>
+      </ul>
+        </div>
         
-      </div>
-      
-      
-      <div className="rightsection">
-      <img src={services} style={{ width: "100%", height: "100%" }} alt="Hair Color Example" title="Hair Color Example" />
         
-      </div>
+        <div className="rightsectiondark">
+          <br/>
+        <h3>SPECIALIZED SERVICES</h3>
+        
+        <ul>
+          <li>Consulation</li>
+          <li>Flat Iron</li>
+          <li>Perm</li>
+      </ul>
+        
+        </div>
 
     </section>
   );
