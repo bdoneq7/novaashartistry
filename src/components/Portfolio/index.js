@@ -38,7 +38,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
         
         
-          <img src={project1} style={{ width: "80%", height: "80%" }} alt="Empowerment" title="Empowerment" />
+          <img src={project16} style={{ width: "80%", height: "80%" }} alt="Empowerment" title="Empowerment" />
           
           <br/>
           <h3>CUT</h3>
@@ -51,43 +51,65 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project2} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 2
+          
+          <h3>STYLE</h3>
+        
+        <br/>
+        Marcel Iron Barrel Curls
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project3} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 3
+          <h3>STYLE</h3>
+        
+        <br/>
+        Marcel Iron Spiral Curls
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project4} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 4
+          <h3>STYLE</h3>
+        
+        <br/>
+        Pin Curls
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project5} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 5
+          <h3>STYLE</h3>
+        
+        <br/>
+        ?
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project6} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 6
+          <h3>STYLE</h3>
+        
+        <br/>
+        Updo with Curls
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project7} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 7
+          <h3>STYLE</h3>
+        
+        <br/>
+        Updo with Curls
         </div>
 
         <div className="sectionpicdarkport">
           <img src={project8} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          Project 8
+          <h3>COLOR TRANSFORMATION</h3>
+        
+        <br/>
+        Transformed from Dark Brown to Red Violet
         </div>
 
         <div className="sectionpicdarkport">
@@ -132,11 +154,6 @@ function Portfolio(props) {
           Project 15
         </div>
 
-        <div className="sectionpicdarkport">
-          <img src={project16} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
-          <br/>
-          Project 16
-        </div>
 
         <div className="sectionpicdarkport">
           <img src={project17} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
