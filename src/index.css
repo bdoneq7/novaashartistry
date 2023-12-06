@@ -306,6 +306,10 @@ a:hover {
   text-decoration: underline;
 }
 
+li {
+  color: #ffffff;
+}
+
 
 header a {
   color: var(--light);
