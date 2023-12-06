@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Link} from 'react-router-dom';
+import { BrowserRouter as Link} from 'react-router-dom';
 import project1 from "../../assets/images/project1.jpg";
 import project2 from "../../assets/images/project2.jpg";
 import project3 from "../../assets/images/project3.jpg";
@@ -37,13 +37,13 @@ function Portfolio(props) {
         
 
         <div className="sectionpicdarkport">
-        <Router>
+        
         <Link to='/project1.js' >
           <img src={project1} style={{ width: "80%", height: "80%" }} alt="Empowerment" title="Empowerment" />
           </Link>
           <br/>
           Project 1
-          </Router>
+          
         </div>
 
         <div className="sectionpicdarkport">
