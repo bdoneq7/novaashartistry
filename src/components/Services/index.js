@@ -21,7 +21,7 @@ function Services(props) {
         
         <div className="servicessectiondarktype">
         <ul class="bullet">
-          <li>Consulation</li>
+          <li>&#8226; Consulation</li>
           <li>Shampoo & Shear Cut</li>
           <li>Shampoo, Shear Cut, Style</li>
       </ul>
