@@ -77,7 +77,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project4} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>STYLE</h3>
+          <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
         Pin Curls
@@ -86,7 +86,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project5} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>STYLE</h3>
+          <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
         Box Braids with added Hair
@@ -95,7 +95,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project6} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>STYLE</h3>
+          <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
         Updo with Curls
@@ -104,7 +104,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project7} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>STYLE</h3>
+          <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
         Updo with Curls
@@ -113,7 +113,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project8} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>COLOR TRANSFORMATION</h3>
+          <h3><div class="portfoliotitle">COLOR TRANSFORMATION</div></h3>
         
         <br/>
         Transformed from Dark Brown to Red Violet
@@ -122,7 +122,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project9} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>CUT</h3>
+          <h3><div class="portfoliotitle">CUT</div></h3>
         
         <br/>
         Pixie Cut with Shears
@@ -131,7 +131,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project10} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>STYLE</h3>
+          <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
         Color Removal and Pixie Style
@@ -140,7 +140,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project11} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>STYLE</h3>
+          <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
         Flat Iron Waves
@@ -149,7 +149,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project12} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>COLOR</h3>
+          <h3><div class="portfoliotitle">COLOR</div></h3>
         
         <br/>
         Matrix Admiral Navy and Royal Purple Block Coloring
@@ -158,7 +158,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project13} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>BLONDING</h3>
+          <h3><div class="portfoliotitle">BLONDING</div></h3>
         
         <br/>
         Custom Foil and Razor Bob
@@ -167,7 +167,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project14} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>STYLE</h3>
+          <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
         Block Coloring and Pixie Cut with Shears
@@ -176,7 +176,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project15} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>CLIPPER CUT</h3>
+          <h3><div class="portfoliotitle">CLIPPER CUT</div></h3>
         
         <br/>
         Clipper Cut Shears on the top and some Blending
@@ -186,7 +186,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project17} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>STYLE</h3>
+          <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
         Flat Twist Design Faux Hawk
@@ -195,7 +195,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project18} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>STYLE</h3>
+          <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
         Corn Rows
@@ -204,7 +204,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project19} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>STYLE</h3>
+          <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
         French Braids
@@ -215,7 +215,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project21} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>STYLE</h3>
+          <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
         Curly Faux Hawk with Dutch Braids
@@ -224,7 +224,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project22} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>MAKE-UP</h3>
+          <h3><div class="portfoliotitle">MAKE-UP</div></h3>
         
         <br/>
         Dramatic Eye Make-Up Application
@@ -233,7 +233,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project23} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>CUT & COLOR</h3>
+          <h3><div class="portfoliotitle">CUT & COLOR</div></h3>
         
         <br/>
         Pixie Cut Shears and Custom Red Brown Color
@@ -242,7 +242,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project24before} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>CUT & COLOR BEFORE</h3>
+          <h3><div class="portfoliotitle">CUT & COLOR BEFORE</div></h3>
         
         <br/>
         Part 1 - Prior to Color Application and Trim
@@ -251,7 +251,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project24} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>CUT & COLOR AFTER</h3>
+          <h3><div class="portfoliotitle">CUT & COLOR AFTER</div></h3>
         
         <br/>
         Part 2 - Shear Trim and Custom Red Color Refresh
@@ -260,7 +260,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project25before} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>COMBINATION CUT BEFORE</h3>
+          <h3><div class="portfoliotitle">COMBINATION CUT BEFORE</div></h3>
         
         <br/>Part 1 - Prior to Clipper with Shears
         
@@ -269,7 +269,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project25} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>COMBINATION CUT AFTER</h3>
+          <h3><div class="portfoliotitle">COMBINATION CUT AFTER</div></h3>
         
         <br/>Part 2 - Clipper with Shears
         
@@ -278,7 +278,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project26before} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>GRAY BLENDING BEFORE</h3>
+          <h3><div class="portfoliotitle">GRAY BLENDING BEFORE</div></h3>
         
         <br/>Part 1 - Prior to Correction and Cut
         
@@ -287,7 +287,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
           <img src={project26} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
-          <h3>GRAY BLENDING</h3>
+          <h3><div class="portfoliotitle">GRAY BLENDING</div></h3>
         
         <br/>Part 2 - Gray Blending and Color Correction with Deep Conditioning Treatment and Blunt Cut
         
