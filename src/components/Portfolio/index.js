@@ -110,6 +110,10 @@ function Portfolio(props) {
         Updo with Curls
         </div>
 
+        <div className="sectionpicdarkportsliver">
+          
+        </div>
+
         <div className="sectionpicdarkport">
           <img src={project8} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
@@ -126,6 +130,10 @@ function Portfolio(props) {
         
         <br/>
         Pixie Cut with Shears
+        </div>
+
+        <div className="sectionpicdarkportsliver">
+          
         </div>
 
         <div className="sectionpicdarkport">
@@ -155,6 +163,10 @@ function Portfolio(props) {
         Matrix Admiral Navy and Royal Purple Block Coloring
         </div>
 
+        <div className="sectionpicdarkportsliver">
+          
+        </div>
+
         <div className="sectionpicdarkport">
           <img src={project13} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
@@ -180,6 +192,10 @@ function Portfolio(props) {
         
         <br/>
         Clipper Cut Shears on the top and some Blending
+        </div>
+
+        <div className="sectionpicdarkportsliver">
+          
         </div>
 
 
@@ -210,6 +226,9 @@ function Portfolio(props) {
         French Braids
         </div>
 
+        <div className="sectionpicdarkportsliver">
+          
+        </div>
         
 
         <div className="sectionpicdarkport">
@@ -239,6 +258,10 @@ function Portfolio(props) {
         Pixie Cut Shears and Custom Red Brown Color
         </div>
 
+        <div className="sectionpicdarkportsliver">
+          
+        </div>
+
         <div className="sectionpicdarkport">
           <img src={project24before} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
           <br/>
@@ -264,6 +287,10 @@ function Portfolio(props) {
         
         <br/>Part 1 - Prior to Clipper with Shears
         
+        </div>
+
+        <div className="sectionpicdarkportsliver">
+          
         </div>
 
         <div className="sectionpicdarkport">
