@@ -48,7 +48,7 @@ function Portfolio(props) {
         
         <br/>
         <div class="portfoliodesc">
-        180 Cut with curtain bangs and flat iron curl
+        180 Cut with Curtain Bangs and Flat Iron Curl
         </div>
           
         </div>
@@ -86,7 +86,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Pin Curls
+        </div>
         </div>
 
         <div className="sectionpicdarkport">
@@ -95,7 +97,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Box Braids with added Hair
+        </div>
         </div>
 
         <div className="sectionpicdarkport">
@@ -104,7 +108,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Updo with Curls
+        </div>
         </div>
 
         <div className="sectionpicdarkportsliver">
@@ -117,7 +123,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Updo with Curls
+        </div>
         </div>
 
         
@@ -128,7 +136,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">COLOR TRANSFORMATION</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Transformed from Dark Brown to Red Violet
+        </div>
         </div>
 
         <div className="sectionpicdarkport">
@@ -137,7 +147,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">CUT</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Pixie Cut with Shears
+        </div>
         </div>
 
         <div className="sectionpicdarkportsliver">
@@ -150,7 +162,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Color Removal and Pixie Style
+        </div>
         </div>
 
         <div className="sectionpicdarkport">
@@ -159,7 +173,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Flat Iron Waves
+        </div>
         </div>
 
         <div className="sectionpicdarkport">
@@ -168,7 +184,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">COLOR</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Matrix Admiral Navy and Royal Purple Block Coloring
+        </div>
         </div>
 
         <div className="sectionpicdarkportsliver">
@@ -181,7 +199,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">BLONDING</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Custom Foil and Razor Bob
+        </div>
         </div>
 
         <div className="sectionpicdarkport">
@@ -190,7 +210,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Block Coloring and Pixie Cut with Shears
+        </div>
         </div>
 
         <div className="sectionpicdarkport">
@@ -199,7 +221,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">CLIPPER CUT</div></h3>
         
         <br/>
-        Clipper Cut Shears on the top and some Blending
+        <div class="portfoliodesc">
+        Clipper Cut Shears on the Top and some Blending
+        </div>
         </div>
 
         <div className="sectionpicdarkportsliver">
@@ -213,7 +237,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Flat Twist Design Faux Hawk
+        </div>
         </div>
 
         <div className="sectionpicdarkport">
@@ -222,7 +248,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Corn Rows
+        </div>
         </div>
 
         <div className="sectionpicdarkport">
@@ -231,7 +259,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         French Braids
+        </div>
         </div>
 
         <div className="sectionpicdarkportsliver">
@@ -245,7 +275,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">STYLE</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Curly Faux Hawk with Dutch Braids
+        </div>
         </div>
 
         <div className="sectionpicdarkport">
@@ -254,7 +286,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">MAKE-UP</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Dramatic Eye Make-Up Application
+        </div>
         </div>
 
         <div className="sectionpicdarkport">
@@ -263,7 +297,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">CUT & COLOR</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Pixie Cut Shears and Custom Red Brown Color
+        </div>
         </div>
 
         <div className="sectionpicdarkportsliver">
@@ -276,7 +312,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">CUT & COLOR BEFORE</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Part 1 - Prior to Color Application and Trim
+        </div>
         </div>
 
         <div className="sectionpicdarkport">
@@ -285,7 +323,9 @@ function Portfolio(props) {
           <h3><div class="portfoliotitle">CUT & COLOR AFTER</div></h3>
         
         <br/>
+        <div class="portfoliodesc">
         Part 2 - Shear Trim and Custom Red Color Refresh
+        </div>
         </div>
 
         <div className="sectionpicdarkport">
@@ -293,7 +333,10 @@ function Portfolio(props) {
           <br/>
           <h3><div class="portfoliotitle">COMBINATION CUT BEFORE</div></h3>
         
-        <br/>Part 1 - Prior to Clipper with Shears
+        <br/>
+        <div class="portfoliodesc">
+        Part 1 - Prior to Clipper with Shears
+        </div>
         
         </div>
 
@@ -306,8 +349,10 @@ function Portfolio(props) {
           <br/>
           <h3><div class="portfoliotitle">COMBINATION CUT AFTER</div></h3>
         
-        <br/>Part 2 - Clipper with Shears
-        
+        <br/>
+        <div class="portfoliodesc">
+        Part 2 - Clipper with Shears
+        </div>
         </div>
 
         <div className="sectionpicdarkport">
@@ -315,8 +360,10 @@ function Portfolio(props) {
           <br/>
           <h3><div class="portfoliotitle">GRAY BLENDING BEFORE</div></h3>
         
-        <br/>Part 1 - Prior to Correction and Cut
-        
+        <br/>
+        <div class="portfoliodesc">
+        Part 1 - Prior to Correction and Cut
+        </div>
         </div>
 
         <div className="sectionpicdarkport">
