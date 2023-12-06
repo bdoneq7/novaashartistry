@@ -21,28 +21,19 @@ function Services(props) {
         
         <div className="servicessectiondarktype">
         <ul>
-          <li>Consulation</li>
-          <li>&#8226; Shampoo & Shear Cut</li>
-          <li>&#8226; Shampoo, Shear Cut, Style</li>
-          <li>&#8226; Clipper Cut</li>
-          <li>&#8226; Combination Cut</li>
-          <li>&#8226; Child Cut 12 and Under</li>
-          <li>&#8226; Shampoo and Blow dry Only</li>
-          <li>&#8226; Deep Conditioner add-on</li>
+          <li>&#8226; Consulation                     FREE</li>
+          <li>&#8226; Shampoo & Shear Cut             $45</li>
+          <li>&#8226; Shampoo, Shear Cut, Style       $60</li>
+          <li>&#8226; Clipper Cut                     $30</li>
+          <li>&#8226; Combination Cut                 $50</li>
+          <li>&#8226; Child Cut 12 and Under          $20</li>
+          <li>&#8226; Shampoo and Blow dry Only       $40</li>
+          <li>&#8226; Deep Conditioner add-on         $10</li>
       </ul>
       </div>
 
       <div className="servicessectiondarkprice">
-        <ul>
-          <li>FREE</li>
-          <li>$45</li>
-          <li>$60</li>
-          <li>$30</li>
-          <li>$50</li>
-          <li>$20</li>
-          <li>$40</li>
-          <li>$10</li>
-        </ul>
+        
       
       </div>
 
