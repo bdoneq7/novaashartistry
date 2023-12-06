@@ -44,7 +44,7 @@ function Portfolio(props) {
           <img src={project16} style={{ width: "80%", height: "80%" }} alt="Empowerment" title="Empowerment" />
           
           <br/>
-          <h3><div class="summertitle">CUT</div></h3>
+          <h3><div class="portfoliotitle">CUT</div></h3>
         
         <br/>
         180 Cut with curtain bangs and flat iron curl
