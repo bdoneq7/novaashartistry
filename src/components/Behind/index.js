@@ -18,7 +18,7 @@ function Behind(props) {
           <br/>
         <h3>Summer Done</h3>
         <div class="summertitle">
-        OWNER, SYTLIST
+        OWNER, STYLIST
         </div>
         <br/>
         I have a passion for helping people feel their best! This has led me on a journey through the years of working of working with
