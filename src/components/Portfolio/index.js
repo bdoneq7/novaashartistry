@@ -34,18 +34,6 @@ function Portfolio(props) {
         <h1 id="about">PORTFOLIO</h1>
         </div>
 
-        <div className="rightsectiondark">
-          <br/>
-        <h3>CUT</h3>
-        
-        <br/>
-        180 Cut with curtain bangs and flat iron curl
-        </div>
-
-        <div className="leftsectionpicdark">
-          <img src={project16} style={{ width: "50%", height: "50%" }} alt="180 Cut with Curtain Bangs and Flat iron Curl" title="180 Cut with Curtain Bangs and Flat Iron Curl" />
-        </div>
-        
 
         <div className="sectionpicdarkport">
         
@@ -53,7 +41,10 @@ function Portfolio(props) {
           <img src={project1} style={{ width: "80%", height: "80%" }} alt="Empowerment" title="Empowerment" />
           
           <br/>
-          Project 1
+          <h3>CUT</h3>
+        
+        <br/>
+        180 Cut with curtain bangs and flat iron curl
           
         </div>
 
