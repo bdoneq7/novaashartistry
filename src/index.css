@@ -189,9 +189,9 @@ header a {
 .footersection {
   float: left;
   width: 25%;
-  height: 200px;
+  height: 100px;
   color: #000000;
-  line-height: 200px;
+  text-align: center;
 }
 
 
