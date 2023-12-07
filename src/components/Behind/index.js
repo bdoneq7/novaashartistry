@@ -21,7 +21,7 @@ function Behind(props) {
         OWNER, STYLIST
         </div>
         <br/>
-        I have a passion for helping people feel their best! This has led me on a journey through the years of working of working with
+        I have a passion for helping people feel their best! This has led me on a journey through the years of working with
         people of all ages and abilities, helping them live their daily lives or in a social service capacity.<br/>
         <br/>
         I decided to begin a new adventure by enrolling at the Empire Beauty School January of 2023. I know first hand how a haircut, style,
