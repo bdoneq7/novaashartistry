@@ -150,7 +150,7 @@ header a {
   height: 650px;
   background-color: var(--black-color);
   color: #000000;
-  margin: 0px;
+  margin-bottom: 50px;
   text-align: center;
   padding-top: 25px;
 
@@ -234,7 +234,7 @@ header a {
   background-color: #000000;
   color: #ffffff;
   padding: 15px;
-  margin: 0px;
+  margin-bottom: 50px;
 }
 
 .servicessectiondark {
