@@ -357,6 +357,7 @@ function Portfolio(props) {
 
         <div className="sectionpicdarkport">
           <img src={project26before} style={{ width: "95%", height: "80%" }} alt="Gray Blending Before" title="Gray Blendng Before" />
+          
           <br/>
           <h3><div class="portfoliotitle">GRAY BLENDING BEFORE</div></h3>
         
