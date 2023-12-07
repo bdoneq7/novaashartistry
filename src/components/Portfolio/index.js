@@ -41,7 +41,7 @@ function Portfolio(props) {
         <div className="sectionpicdarkport">
         
         
-          <img src={project16} style={{ width: "100%", height: "80%" }} alt="Cut" title="Cut" />
+          <img src={project16} style={{ width: "95%", height: "80%" }} alt="Cut" title="Cut" />
           
           <br/>
           <h3><div class="portfoliotitle">CUT</div></h3>
@@ -54,7 +54,7 @@ function Portfolio(props) {
         </div>
 
         <div className="sectionpicdarkport">
-          <img src={project2} style={{ width: "100%", height: "80%" }} alt="Style" title="Style" />
+          <img src={project2} style={{ width: "95%", height: "80%" }} alt="Style" title="Style" />
           <br/>
           
           <h3><div class="portfoliotitle">STYLE</div></h3>
@@ -66,7 +66,7 @@ function Portfolio(props) {
         </div>
 
         <div className="sectionpicdarkport">
-          <img src={project3} style={{ width: "100%", height: "80%" }} alt="Style" title="Style" />
+          <img src={project3} style={{ width: "95%", height: "80%" }} alt="Style" title="Style" />
           <br/>
           <h3><div class="portfoliotitle">STYLE</div></h3>
         
