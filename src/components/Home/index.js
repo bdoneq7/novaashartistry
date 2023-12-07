@@ -19,7 +19,7 @@ function Home(props) {
         </div>
 
         <div className="leftsectionpicdark">
-          <img src={aboutus} style={{ width: "100%", height: "80%" }} alt="About Us" title="About Us" />
+          <img src={aboutus} style={{ width: "90%", height: "80%" }} alt="About Us" title="About Us" />
         </div>
 
         <div className="rightsectiondark">
