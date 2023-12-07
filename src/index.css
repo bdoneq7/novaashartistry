@@ -144,6 +144,18 @@ header a {
 
 }
 
+.leftsectionpicdarkbehind {
+  float: left;
+  width: 50%;
+  height: 600px;
+  background-color: var(--black-color);
+  color: #000000;
+  margin: 0px;
+  text-align: center;
+  padding-top: 25px;
+
+}
+
 .sectionpicdarkport {
   float: left;
   width: 33%;
@@ -208,6 +220,16 @@ header a {
 .rightsectiondark {
   float: left;
   width: 60%;
+  height: 600px;
+  background-color: #000000;
+  color: #ffffff;
+  padding: 15px;
+  margin: 0px;
+}
+
+.rightsectiondarkbehind {
+  float: left;
+  width: 50%;
   height: 600px;
   background-color: #000000;
   color: #ffffff;
