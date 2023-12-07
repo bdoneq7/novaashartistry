@@ -21,9 +21,9 @@ function Footer() {
 			
 			<div class="footersection">
 
-			
+			<a href="https://www.instagram.com/love.summer.beauty/">
 			<img src={instagrampic} style={{ width: "100%", height: "100%" }} alt="Instagram" title="Instagram" />
-			
+			</a>
 			
 			</div>
 			
