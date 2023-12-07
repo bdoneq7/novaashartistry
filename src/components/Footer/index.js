@@ -1,5 +1,5 @@
 import React from "react";
-import instagram from "../../assets/images/instagram.png";
+import instagrampic from "../../assets/images/instagram.png";
 
 function Footer() {
 	return (
@@ -22,7 +22,7 @@ function Footer() {
 			<div class="footersection">
 
 			<a href="https://www.instagram.com/love.summer.beauty/">
-			<img src={instagram} style={{ width: "100%", height: "100%" }} alt="View Instagram" title="Instagram" />
+			<img src={instagrampic} style={{ width: "100%", height: "100%" }} alt="Instagram" title="Instagram" />
 			</a>
 			
 			</div>
