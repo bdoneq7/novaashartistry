@@ -36,7 +36,9 @@ function Footer() {
 				Thursday: 10 am to 9 pm<br/>
 				Friday: 10 am to 7 pm<br/>
 				Saturday: 9 am to 6 pm<br/>
-				Sunday: Closed
+				Sunday: Closed<br/>
+				<br/>
+				<br/>
 			</div>
 			
 		
