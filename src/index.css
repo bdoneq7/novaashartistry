@@ -147,7 +147,7 @@ header a {
 .leftsectionpicdarkbehind {
   float: left;
   width: 50%;
-  height: 650px;
+  height: 700px;
   background-color: var(--black-color);
   color: #000000;
   margin-bottom: 50px;
@@ -232,7 +232,8 @@ header a {
 .rightsectiondarkbehind {
   float: left;
   width: 50%;
-  height: 650px;
+  height: 700px;
+  font-size: 14px;
   background-color: #000000;
   color: #ffffff;
   padding: 15px;
