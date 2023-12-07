@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from 'react-router-dom'
 import instagram from "../../assets/images/instagram.png";
 
 function Footer() {
@@ -21,9 +20,10 @@ function Footer() {
 			</div>
 			
 			<div class="footersection">
-			<Link to="https://www.instagram.com/love.summer.beauty/">
+				
+			<a href="https://www.instagram.com/love.summer.beauty/">
 			<img src={instagram} style={{ width: "100%", height: "100%" }} alt="Instagram" title="Instagram" />
-			</Link>
+			</a>
 			
 			</div>
 			
