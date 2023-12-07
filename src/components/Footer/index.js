@@ -15,12 +15,15 @@ function Footer() {
 			</div>
 			
 			<div class="footersection">
+				OUR ADDRESS<br/>
+				<br/>
 				123 Sassennch Dr.<br/>
 				Lallybroch, FL 12345
 			</div>
 			
 			<div class="footersection">
-
+			SOCIAL MEDIA<br/>
+			<br/>
 			<a href="https://www.instagram.com/love.summer.beauty/">
 			<img src={instagrampic} style={{ width: "100%", height: "100%" }} alt="Instagram" title="Instagram" />
 			</a>
@@ -37,8 +40,7 @@ function Footer() {
 				Friday: 10 am to 7 pm<br/>
 				Saturday: 9 am to 6 pm<br/>
 				Sunday: Closed<br/>
-				<br/>
-				<br/>
+				
 			</div>
 			
 		

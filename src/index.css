@@ -308,7 +308,7 @@ header a {
 .footer {
   color: var(--black-color);
   background-color: var(--white-color);
-  height: 250px;
+  height: 275px;
   width: 100%;
   float: left;
   padding: 10px;
