@@ -153,6 +153,20 @@ header a {
   margin: 0px;
   text-align: center;
   padding-top: 25px;
+  
+
+}
+
+.leftsectionpicdarkgoalslast {
+  float: left;
+  width: 40%;
+  height: 400px;
+  background-color: var(--black-color);
+  color: #000000;
+  margin: 0px;
+  text-align: center;
+  padding-top: 25px;
+  
 
 }
 
@@ -258,6 +272,16 @@ header a {
   float: left;
   width: 60%;
   height: 300px;
+  background-color: #000000;
+  color: #ffffff;
+  padding: 15px;
+  margin: 0px;
+}
+
+.rightsectiondarkgoalslast {
+  float: left;
+  width: 60%;
+  height: 400px;
   background-color: #000000;
   color: #ffffff;
   padding: 15px;

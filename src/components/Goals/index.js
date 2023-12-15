@@ -62,11 +62,11 @@ function Goals(props) {
           <img src={inclusion} style={{ width: "80%", height: "80%" }} alt="Inclusion" title="Inclusion" />
         </div>
 
-        <div className="leftsectionpicdarkgoals">
+        <div className="leftsectionpicdarkgoalslast">
           <img src={employeewellness} style={{ width: "80%", height: "80%" }} alt="Employee Wellness" title="Employee Wellness" />
         </div>
 
-        <div className="rightsectiondarkgoals">
+        <div className="rightsectiondarkgoalslast">
           <br/>
         <h3>EMPLOYEE WELLNESS</h3>
         
