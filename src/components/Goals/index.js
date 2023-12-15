@@ -58,11 +58,11 @@ function Goals(props) {
         fragrance free products for sensitivities/allergies.
         </div>
 
-        <div className="leftsectionpicdark">
+        <div className="leftsectionpicdarkgoals">
           <img src={inclusion} style={{ width: "80%", height: "80%" }} alt="Inclusion" title="Inclusion" />
         </div>
 
-        <div className="leftsectionpicdark">
+        <div className="leftsectionpicdarkgoals">
           <img src={employeewellness} style={{ width: "80%", height: "80%" }} alt="Employee Wellness" title="Employee Wellness" />
         </div>
 
