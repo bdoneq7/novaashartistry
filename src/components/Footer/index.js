@@ -25,7 +25,7 @@ function Footer() {
 			SOCIAL MEDIA<br/>
 			<br/>
 			<a href="https://www.instagram.com/love.summer.beauty/">
-			<img src={instagrampic} style={{ width: "10%", height: "40%" }} alt="Instagram" title="Instagram" />
+			<img src={instagrampic} style={{ width: "15%", height: "30%" }} alt="Instagram" title="Instagram" />
 			</a>
 			
 			</div>
