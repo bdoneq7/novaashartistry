@@ -135,7 +135,7 @@ header a {
 .leftsectionpicdark {
   float: left;
   width: 40%;
-  height: 600px;
+  height: 500px;
   background-color: var(--black-color);
   color: #000000;
   margin: 0px;
@@ -261,7 +261,7 @@ header a {
 .rightsectiondark {
   float: left;
   width: 60%;
-  height: 600px;
+  height: 500px;
   background-color: #000000;
   color: #ffffff;
   padding: 15px;
