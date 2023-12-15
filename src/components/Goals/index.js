@@ -14,7 +14,7 @@ function Goals(props) {
         </div>
         
         
-        <div className="rightsectiondark">
+        <div className="rightsectiondarkgoals">
           <br/>
         <h3>EMPOWERMENT</h3>
         
@@ -25,15 +25,15 @@ function Goals(props) {
         confident, and relazed.
         </div>
 
-        <div className="leftsectionpicdark">
+        <div className="leftsectionpicdarkgoals">
           <img src={empowerment} style={{ width: "80%", height: "80%" }} alt="Empowerment" title="Empowerment" />
         </div>
 
-        <div className="leftsectionpicdark">
+        <div className="leftsectionpicdarkgoals">
           <img src={education} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
         </div>
 
-        <div className="rightsectiondark">
+        <div className="rightsectiondarkgoals">
           <br/>
         <h3>EDUCATION</h3>
         
@@ -45,7 +45,7 @@ function Goals(props) {
         for our staff and guests.
         </div>
 
-        <div className="rightsectiondark">
+        <div className="rightsectiondarkgoals">
           <br/>
         <h3>INCLUSION</h3>
         
@@ -66,7 +66,7 @@ function Goals(props) {
           <img src={employeewellness} style={{ width: "80%", height: "80%" }} alt="Employee Wellness" title="Employee Wellness" />
         </div>
 
-        <div className="rightsectiondark">
+        <div className="rightsectiondarkgoals">
           <br/>
         <h3>EMPLOYEE WELLNESS</h3>
         
