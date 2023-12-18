@@ -30,8 +30,9 @@ function Footer() {
 			</a>
 
 			<br/>
-			<a href="https://www.instagram.com/love.summer.beauty/">
-			<img src={facebookpic} style={{ width: "11%", height: "30%" }} alt="Facebook" title="Facebook" />
+			<br/>
+			<a href="https://www.facebook.com/nova.ash.artistry/">
+			<img src={facebookpic} style={{ width: "10.5%", height: "30%" }} alt="Facebook" title="Facebook" />
 			</a>
 			
 			</div>
