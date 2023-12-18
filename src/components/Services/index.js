@@ -176,6 +176,40 @@ function Services(props) {
         
         </div>      
 
+
+
+        <div className="servicessectiondark">
+          
+        <h3 class="moveright">NAIL SERVICES</h3>
+        
+        <div className="servicessectiondarktype">
+        &#8226; Basic Manicure<br/>                     
+        &#8226; Basic Pedicure<br/>           
+        &#8226; Basic Mani/Pedi<br/>      
+        &#8226; Spa Manicure<br/>                    
+        &#8226; Spa Pedicure<br/>                 
+        &#8226; Spa Mani/Pedi<br/>        
+        &#8226; Gel Polish Removal<br/>      
+        &#8226; Simple Nail Art<br/>        
+      </div>
+
+      <div className="servicessectiondarkprice">
+        $15<br/>
+        $25<br/>
+        $35<br/>
+        $25<br/>
+        $35<br/>
+        $45<br/>
+        $8<br/>
+        $8<br/>
+      
+      </div>
+
+
+
+        </div>
+        
+
     </section>
   );
 
