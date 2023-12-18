@@ -21,17 +21,15 @@ function Behind(props) {
         OWNER, STYLIST
         </div>
         <br/>
-        I have a passion for helping people feel their best! This has led me on a journey through the years of working with
-        people of all ages and abilities, helping them live their daily lives or in a social service capacity.<br/>
+        My passion centers around people and helping them feel their best! This passion has led me on a social service journey
+        through years of working with people of all ages and abilities, helping them succeed in their daily lives. I decided to
+        begin a new adventure by enrolling at Empire Beauty School January of 2023. I know firsthand how a haircut, style, color,
+        or skin care service can help turn a gloomy month into a confidence-building experience.<br/>
         <br/>
-        I decided to begin a new adventure by enrolling at the Empire Beauty School January of 2023. I know first hand how a haircut, style,
-        color, or skin care service can help turn a gloomy month into a confidence building experience.<br/>
-        <br/>
-        While I have enjoyed many aspects of working behind the chair, I love to work with different color clients, finding vivid colors to
-        express the individual personality.<br/>
-        <br/>
-        When I am not in the salon, I am a busy homeschool mom of three littles. Someday, when I grow up, I plan to expand Nova Ash Artistry
-        to include art in many forms; ceramics, painting, still life, etc.
+        While I have enjoyed many aspects of working behind the chair, my current favorite is working with different color clients, 
+        finding vivid colors to express the individual personality. When I am not in the salon, I am a busy homeschool mom of three
+        littles. Someday, when I grow up, I plan to expand Nova Ash Artistry to include art in many forms: ceramics, painting, still
+        life, etc.
         </div>
   
       </section>
