@@ -216,14 +216,14 @@ function Services(props) {
           <h3 class="moveright">OTHER SERVICES</h3>
           
           <div className="servicessectiondarktype">
-          &#8226; ?<br/>                     
-          &#8226; ?<br/>           
-          &#8226; ?<br/>      
-          &#8226; ?<br/>                    
-          &#8226; ?<br/>                 
-          &#8226; ?<br/>        
-          &#8226; ?<br/>      
-          &#8226; ?<br/>        
+          <br/>                     
+          <br/>           
+          <br/>      
+          <br/>                    
+          <br/>                 
+          <br/>        
+          <br/>      
+          <br/>        
         </div>
   
         <div className="servicessectiondarkprice">
