@@ -1,5 +1,6 @@
 import React from "react";
 import instagrampic from "../../assets/images/instagrampic.png";
+import facebookpic from "../../assets/images/facebookpic.png";
 
 function Footer() {
 	return (
@@ -26,6 +27,11 @@ function Footer() {
 			<br/>
 			<a href="https://www.instagram.com/love.summer.beauty/">
 			<img src={instagrampic} style={{ width: "11%", height: "30%" }} alt="Instagram" title="Instagram" />
+			</a>
+
+			<br/>
+			<a href="https://www.instagram.com/love.summer.beauty/">
+			<img src={facebookpic} style={{ width: "11%", height: "30%" }} alt="Facebook" title="Facebook" />
 			</a>
 			
 			</div>
