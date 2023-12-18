@@ -22,7 +22,7 @@ function Goals(props) {
         We believe everyone sitting in our chairs should have the opportunity to leave feeling their best and refreshed.<br/>
         <br/>
         Through our phenomenal hair, color, and skin services, Nova Ash Artistry empowers individuals to feel beautiful,
-        confident, and relazed.
+        confident, and relaxed.
         </div>
 
         <div className="leftsectionpicdarkgoals">
@@ -38,10 +38,10 @@ function Goals(props) {
         <h3>EDUCATION</h3>
         
         <br/>
-        All Stylists and estheticians with Nova Ash Artistry will receive ongoing education, increasing skills to
+        All Stylists and estheticians with Nova Ash Artistry recieves ongoing education to increase skills to
         provide the latest techniques and styles.<br/>
         <br/>
-        All staff will also receive continuing education in customer service skills, ensuring the best experience
+        All staff members also receive continuing education in customer service skills to ensure the best experience
         for our staff and guests.
         </div>
 
@@ -50,12 +50,10 @@ function Goals(props) {
         <h3>INCLUSION</h3>
         
         <br/>
-        We strive to make our services applicable to everyone. Nova Ash Artistry will provide reasonable accomodation
-        necessary to ensure a pleasant experience for all of our guests.<br/>
-        <br/>
-        This may include flexible salon availability for guests with sensory needs (quiet hours, softer ligthing, softer
-        music), adjustable salon chairs for mobility issues, textured flooring for the visually impaired, gentle and 
-        fragrance free products for sensitivities/allergies.
+        We strive to make our services applicable to everyone. Nova Ash Artistry provides reasonable accomodation
+        necessary to ensure a pleasant experience for all of our guests. This includes flexible salon availability
+        for guests with sensory needs (quiet hours, softer lighting, softer music), adjustable salon chairs for
+        mobility issues, texture flooring for visually impaired, gentle and fragrance free products for sensitivities/allergies.
         </div>
 
         <div className="leftsectionpicdarkgoals">
@@ -71,13 +69,13 @@ function Goals(props) {
         <h3>EMPLOYEE WELLNESS</h3>
         
         <br/>
-        Employees with Nova Ash Artistry are the strength of the business! All employees will be encouraged
+        Employees with Nova Ash Artistry are the strength of the business! All employees are encouraged
         to have a robust work-life balance. Schedules are flexible to adjust for family needs.<br/>
         <br/>
-        Ergonomics are critical to the well being of all stylists. We will provide adjustable adjustable height
+        Ergonomics are critical to the well-being of all stylists. We provide adjustable adjustable height
         chairs, saddle stools, trolleys, and anti-fatigue mats. A variety of glove sizes and good ventilation
-        will be readily available in the color bar. A massage chair, calming music, and water cooler will be at 
-        all staff disposal in the employee break room.
+        are readily available in the color bar. A massage chair, calming music, and water cooler are at 
+        all staff members' disposal in the employee break room.
         </div>
   
       </section>
