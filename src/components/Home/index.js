@@ -29,10 +29,11 @@ function Home(props) {
         <br/>
         Nova Ash was born out of the desire to be meaningful in the approach to cosmetology. One of the meanings of NOVA is 'new' and
         one of the origins of ASH is from the name 'Asher' or 'happy.' The leaves of the ash tree typically support rich and diverse 
-        ground flora, by retaining more nutrients, and raising the pH level of the soil.<br/>
-        <br/>
-        Like the ash trees, Nova Ash Artistry strives
+        ground flora, by retaining more nutrients, and raising the pH level of the soil. Like the ash trees, Nova Ash Artistry strives
         to maintain and improve the health and strength of our guests' hair and skin, leaving them feeling beautiful, inside and out.
+        <br/>
+        <br/>
+        Nova Ash Artistry is a limited liability company with a sole proprietor.
         </div>
 
       </div>
