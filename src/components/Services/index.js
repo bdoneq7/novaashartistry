@@ -210,9 +210,40 @@ function Services(props) {
         </div>
 
 
-        <div className="servicessectiondarktype"></div>
 
-        <div className="servicessectiondarkprice"></div>
+        <div className="servicessectiondark">
+          
+          <h3 class="moveright">OTHER SERVICES</h3>
+          
+          <div className="servicessectiondarktype">
+          &#8226; ?<br/>                     
+          &#8226; ?<br/>           
+          &#8226; ?<br/>      
+          &#8226; ?<br/>                    
+          &#8226; ?<br/>                 
+          &#8226; ?<br/>        
+          &#8226; ?<br/>      
+          &#8226; ?<br/>        
+        </div>
+  
+        <div className="servicessectiondarkprice">
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+        
+        </div>
+  
+  
+  
+          </div>
+  
+  
+        
         
 
     </section>
