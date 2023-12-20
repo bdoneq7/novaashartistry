@@ -147,7 +147,7 @@ header a {
 .leftsectionpicdarkgoals {
   float: left;
   width: 40%;
-  height: 300px;
+  height: 500px;
   background-color: var(--black-color);
   color: #000000;
   margin: 0px;
@@ -271,7 +271,7 @@ header a {
 .rightsectiondarkgoals {
   float: left;
   width: 60%;
-  height: 300px;
+  height: 500px;
   background-color: #000000;
   color: #ffffff;
   padding: 15px;
