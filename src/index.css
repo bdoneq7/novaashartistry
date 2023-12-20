@@ -318,6 +318,17 @@ header a {
   margin: 0px;
 }
 
+.servicessectiondarktop {
+  float: left;
+  width: 50%;
+  height: 400px;
+  background-color: #000000;
+  color: #ffffff;
+  padding: 15px;
+  margin: 0px;
+}
+
+
 .servicessectiondarktype {
   float: left;
   width: 55%;

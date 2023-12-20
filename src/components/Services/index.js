@@ -15,7 +15,7 @@ function Services(props) {
         * PRICES VARY DEPENDENT ON CONSULTATION *
         </div>
 
-        <div className="servicessectiondark">
+        <div className="servicessectiondarktop">
           
         <h3 class="moveright">HAIR SERVICES</h3>
         
