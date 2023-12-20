@@ -47,7 +47,7 @@ function Services(props) {
         </div>
         
         
-        <div className="servicessectiondark">
+        <div className="servicessectiondarktop">
           
         <h3 class="moveright">SPECIALIZED SERVICES</h3>
         
