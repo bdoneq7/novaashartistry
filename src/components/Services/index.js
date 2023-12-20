@@ -178,7 +178,7 @@ function Services(props) {
 
 
 
-        <div className="servicessectiondarktop">
+        <div className="servicessectiondarkbottom">
           
         <h3 class="moveright">NAIL SERVICES</h3>
         
@@ -211,7 +211,7 @@ function Services(props) {
 
 
 
-        <div className="servicessectiondarktop">
+        <div className="servicessectiondarkbottom">
           
           
           
