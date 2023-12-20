@@ -31,7 +31,7 @@ function Footer() {
 
 			<br/>
 			<br/>
-			<a href="https://www.facebook.com/nova.ash.artistry/">
+			<a href="https://www.facebook.com/profile.php?id=61554933895267">
 			<img src={facebookpic} style={{ width: "10.5%", height: "30%" }} alt="Facebook" title="Facebook" />
 			</a>
 			
