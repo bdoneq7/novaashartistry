@@ -403,6 +403,16 @@ function Portfolio(props) {
         </div>
         </div>
 
+        <div className="sectionpicdarkport">
+          
+          
+        
+        <br/>
+        <div class="portfoliodesc">
+       
+        </div>
+        </div>
+
         <div className="sectionpicdarkportsliver">
           
         </div>
