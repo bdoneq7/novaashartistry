@@ -14,7 +14,7 @@ function Goals(props) {
         </div>
         
         
-        <div className="rightsectiondarkgoals">
+        <div className="rightsectiondarkgoalslast">
           <br/>
         <h3>EMPOWERMENT</h3>
         
@@ -25,15 +25,15 @@ function Goals(props) {
         confident, and relaxed.
         </div>
 
-        <div className="leftsectionpicdarkgoals">
+        <div className="leftsectionpicdarkgoalslast">
           <img src={empowerment} style={{ width: "80%", height: "80%" }} alt="Empowerment" title="Empowerment" />
         </div>
 
-        <div className="leftsectionpicdarkgoals">
+        <div className="leftsectionpicdarkgoalslast">
           <img src={education} style={{ width: "80%", height: "80%" }} alt="Education" title="Education" />
         </div>
 
-        <div className="rightsectiondarkgoals">
+        <div className="rightsectiondarkgoalslast">
           <br/>
         <h3>EDUCATION</h3>
         
@@ -45,7 +45,7 @@ function Goals(props) {
         for our staff and guests.
         </div>
 
-        <div className="rightsectiondarkgoals">
+        <div className="rightsectiondarkgoalslast">
           <br/>
         <h3>INCLUSION</h3>
         
@@ -56,7 +56,7 @@ function Goals(props) {
         mobility issues, texture flooring for visually impaired, gentle and fragrance free products for sensitivities/allergies.
         </div>
 
-        <div className="leftsectionpicdarkgoals">
+        <div className="leftsectionpicdarkgoalslast">
           <img src={inclusion} style={{ width: "80%", height: "80%" }} alt="Inclusion" title="Inclusion" />
         </div>
 
