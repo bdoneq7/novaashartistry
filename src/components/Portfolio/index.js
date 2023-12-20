@@ -27,6 +27,8 @@ import project25 from "../../assets/images/project25.jpg";
 import project25before from "../../assets/images/project25before.jpg";
 import project26 from "../../assets/images/project26.jpg";
 import project26before from "../../assets/images/project26before.jpg";
+import project27a from "../../assets/images/project27a.jpg";
+import project27b from "../../assets/images/project27b.jpg";
 
 
 function Portfolio(props) {
@@ -375,6 +377,29 @@ function Portfolio(props) {
         <br/>
         <div class="portfoliodesc">
         Part 2 - Gray Blending, Color Correction, Deep Conditioning Treatment and Blunt Cut
+        </div>
+        </div>
+
+        <div className="sectionpicdarkport">
+          <img src={project27a} style={{ width: "95%", height: "80%" }} alt="Bridal Updo" title="Bridal Updo" />
+          <br/>
+          <h3><div class="portfoliotitle">STYLE</div></h3>
+        
+        <br/>
+        <div class="portfoliodesc">
+        Bridal Updo
+        </div>
+        </div>
+
+
+        <div className="sectionpicdarkport">
+          <img src={project27b} style={{ width: "95%", height: "80%" }} alt="Bridal Updo" title="Bridal Updo" />
+          <br/>
+          <h3><div class="portfoliotitle">STYLE</div></h3>
+        
+        <br/>
+        <div class="portfoliodesc">
+        Bridal Updo
         </div>
         </div>
 
