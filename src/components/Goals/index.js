@@ -14,7 +14,7 @@ function Goals(props) {
         </div>
         
         
-        <div className="rightsectiondarkgoalslast">
+        <div className="rightsectiondarkgoals">
           <br/>
         <h3>EMPOWERMENT</h3>
         
@@ -25,7 +25,7 @@ function Goals(props) {
         confident, and relaxed.
         </div>
 
-        <div className="leftsectionpicdarkgoalslast">
+        <div className="leftsectionpicdarkgoals">
           <img src={empowerment} style={{ width: "80%", height: "80%" }} alt="Empowerment" title="Empowerment" />
         </div>
 
