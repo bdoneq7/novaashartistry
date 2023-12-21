@@ -121,6 +121,8 @@ header a {
   background-color: var(--black-color);
   color: #ffffff;
   padding-top: 25px;
+  padding-right: 10px;
+  font-size: 18px;
 }
 
 .mainlinktitle {
