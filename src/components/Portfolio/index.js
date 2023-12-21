@@ -380,6 +380,9 @@ function Portfolio(props) {
         </div>
         </div>
 
+        <div className="sectionpicdarkportsliver">
+        </div>
+
         <div className="sectionpicdarkport">
           <img src={project27a} style={{ width: "95%", height: "80%" }} alt="Bridal Updo" title="Bridal Updo" />
           <br/>
