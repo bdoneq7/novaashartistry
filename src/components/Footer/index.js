@@ -12,6 +12,8 @@ function Footer() {
 				RESERVATION<br/>
 				<br/>
 				813.541.3969<br/>
+				novaashartistry@gmail.com<br/>
+				<br/>
 				Contact Us Today
 			</div>
 			
