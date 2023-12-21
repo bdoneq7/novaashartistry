@@ -46,11 +46,18 @@ function Home(props) {
         </div>
 
       <div className="reviewsectiontext">
-        Lisa Review
+        Summer did a fantastic job cutting my hair! She listened to me describe what I wanted and she went above and beyond
+        my expectations, ensuring my hair was the correct length, and that the extra thickness was removed. It was a great
+        experience!<br/>
+        - Lisa 
       </div>
 
       <div className="reviewsectiontext">
-        Jantzen Review
+        Summer cut my pixie. She was very professional. Her customer care was amazing, the same as when she has given me facials.
+        She is always concerned with my level of comfort asks how I am doing. Summer gives great attention to detail. She worked
+        with the way my hair grows as she cut and thinned it beautifully. A pixie isn't an easy cut and she did an excellent job!
+        <br/>
+        - Jantzen
       </div>
 
       <div className="reviewsectiontext">
