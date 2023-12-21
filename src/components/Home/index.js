@@ -46,31 +46,31 @@ function Home(props) {
         </div>
 
       <div className="reviewsectiontext">
-        Summer did a fantastic job cutting my hair! She listened to me describe what I wanted and she went above and beyond
+        "Summer did a fantastic job cutting my hair! She listened to me describe what I wanted and she went above and beyond
         my expectations, ensuring my hair was the correct length, and that the extra thickness was removed. It was a great
-        experience!<br/>
+        experience!"<br/>
         - Lisa 
       </div>
 
       <div className="reviewsectiontext">
-        Summer cut my pixie. She was very professional. Her customer care was amazing, the same as when she has given me facials.
+        "Summer cut my pixie. She was very professional. Her customer care was amazing, the same as when she has given me facials.
         She is always concerned with my level of comfort asks how I am doing. Summer gives great attention to detail. She worked
-        with the way my hair grows as she cut and thinned it beautifully. A pixie isn't an easy cut and she did an excellent job!
+        with the way my hair grows as she cut and thinned it beautifully. A pixie isn't an easy cut and she did an excellent job!"
         <br/>
         - Jantzen
       </div>
 
       <div className="reviewsectiontext">
-        I went to my last stylist for many years. After her passing a couple of years ago, I had a difficult time finding a stylist
+        "I went to my last stylist for many years. After her passing a couple of years ago, I had a difficult time finding a stylist
         who did my hair in the style I liked. I appreciate how Summer took the time to listen to my concerns and worked hard to achieve
-        the right cut and color for me. I will definitely be a returning client.
+        the right cut and color for me. I will definitely be a returning client."
       <br/>
         - Martha
       </div>
 
       <div className="reviewsectiontext">
-        I have been a specific type of red since I was a teenager. I am so happy that Summer was able to get the correct color and mix
-        it in the perfect proportions. My cut and color came out excellent.
+        "I have been a specific type of red since I was a teenager. I am so happy that Summer was able to get the correct color and mix
+        it in the perfect proportions. My cut and color came out excellent."
         <br/>
         - Jennifer
       </div>
