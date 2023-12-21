@@ -106,6 +106,22 @@ header a {
   padding: 25px;
 }
 
+.reviewsection {
+  width: 100%;
+  height: 300px;
+  background-color: var(--black-color);
+  color: #ffffff;
+  padding: 25px;
+}
+
+.reviewsectiontext {
+  float: left;
+  width: 25%;
+  height: 275px;
+  background-color: var(--black-color);
+  color: #ffffff;
+}
+
 .mainlinktitle {
   width: 100%;
   height: 70px;

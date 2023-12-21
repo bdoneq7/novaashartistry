@@ -38,6 +38,31 @@ function Home(props) {
 
       </div>
 
+
+      <div className="reviewsection">
+
+      <div className="mainlinktitle">
+        <h1 id="about">REVIEWS</h1>
+        </div>
+
+      <div className="reviewsectiontext">
+        Lisa Review
+      </div>
+
+      <div className="reviewsectiontext">
+        Jantzen Review
+      </div>
+
+      <div className="reviewsectiontext">
+        Martha Review
+      </div>
+
+      <div className="reviewsectiontext">
+        Jennifer Review
+      </div>
+
+      </div>
+
     </section>
   );
 
