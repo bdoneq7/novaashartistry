@@ -61,11 +61,18 @@ function Home(props) {
       </div>
 
       <div className="reviewsectiontext">
-        Martha Review
+        I went to my last stylist for many years. After her passing a couple of years ago, I had a difficult time finding a stylist
+        who did my hair in the style I liked. I appreciate how Summer took the time to listen to my concerns and worked hard to achieve
+        the right cut and color for me. I will definitely be a returning client.
+      <br/>
+        - Martha
       </div>
 
       <div className="reviewsectiontext">
-        Jennifer Review
+        I have been a specific type of red since I was a teenager. I am so happy that Summer was able to get the correct color and mix
+        it in the perfect proportions. My cut and color came out excellent.
+        <br/>
+        - Jennifer
       </div>
 
       </div>
