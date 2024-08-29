@@ -12,7 +12,10 @@ function Goals(props) {
         
         <div className="rightsectiondarkgoals">
           <br/>
-        <h3>Testimonial 1</h3>
+        <h3>"Summer did an amazing job with my hair. She is easily the best hairdresser I've ever met, 11/10".
+          <br/>
+          - Talon
+        </h3>
         </div>
   
       </section>
