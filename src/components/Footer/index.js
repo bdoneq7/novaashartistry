@@ -14,7 +14,7 @@ function Footer() {
 				813.541.3969<br/>
 				NovaAshArtistry@gmail.com<br/>
 				<br/>
-				Contact Us Today
+				Contact Summer Today
 			</div>
 			
 			<div class="footersection">
