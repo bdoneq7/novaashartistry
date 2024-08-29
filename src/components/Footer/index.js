@@ -20,8 +20,8 @@ function Footer() {
 			<div class="footersection">
 				OUR ADDRESS<br/>
 				<br/>
-				123 Sassennch Dr.<br/>
-				Plant City, FL 33563
+				
+				Plant City, FL 33565
 			</div>
 			
 			<div class="footersection">
@@ -42,13 +42,7 @@ function Footer() {
 			<div class="footersection">
 				OUR HOURS<br/>
 				<br/>
-				Monday: Closed<br/>
-				Tuesday: 10 am to 8 pm<br/>
-				Wednesday: 10 am to 8 pm<br/>
-				Thursday: 10 am to 9 pm<br/>
-				Friday: 10 am to 7 pm<br/>
-				Saturday: 9 am to 6 pm<br/>
-				Sunday: Closed<br/>
+				By Appointment Only
 				
 			</div>
 			
