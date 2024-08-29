@@ -33,7 +33,7 @@ function Home(props) {
         to maintain and improve the health and strength of our guests' hair and skin, leaving them feeling beautiful, inside and out.
         <br/>
         <br/>
-        Nova Ash Artistry is a limited liability company with a sole proprietor.
+        
         </div>
 
       </div>
