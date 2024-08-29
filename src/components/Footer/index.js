@@ -18,7 +18,7 @@ function Footer() {
 			</div>
 			
 			<div class="footersection">
-				OUR ADDRESS<br/>
+				LOCATION<br/>
 				<br/>
 				
 				Plant City, FL 33565
@@ -40,7 +40,7 @@ function Footer() {
 			</div>
 			
 			<div class="footersection">
-				OUR HOURS<br/>
+				SERVICES<br/>
 				<br/>
 				By Appointment Only
 				
