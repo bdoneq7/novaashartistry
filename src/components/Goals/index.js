@@ -1,8 +1,4 @@
 import React from 'react';
-import empowerment from "../../assets/images/empowerment.jpg";
-import education from "../../assets/images/education.jpg";
-import inclusion from "../../assets/images/inclusion.jpg";
-import employeewellness from "../../assets/images/employeewellness.jpg";
 
 
 function Goals(props) {
