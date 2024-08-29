@@ -10,7 +10,7 @@ function Behind(props) {
         </div>
 
         <div className="leftsectionpicdarkbehind">
-          <img src={behindchair} style={{ width: "80%", height: "80%" }} alt="Behind the Chair - Summer Done" title="Behind the Chair - Summer Done" />
+          <img src={behindchair} style={{ width: "60%", height: "80%" }} alt="Behind the Chair - Summer Done" title="Behind the Chair - Summer Done" />
         </div>
         
         
